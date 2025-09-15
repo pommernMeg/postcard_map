@@ -13,7 +13,7 @@
            "properties": {
                "name": "Chewduckka",
                "number": "1",
-               "picture": "https://lh3.googleusercontent.com/pw/AP1GczPh-pacw6g6fQP9fQrE-9PXjKkP9eG6R2zJaC_Gfpitbs0AL0qgQCFsLSk_V33-HZaw4EUuRPGVhfhAMufzwIE89jO04r7RNAE5PuYrgNpS4zvMnhwA4rwWD_i4_UYcVa8M7opK9itevV3glK40CeN8hg=w743-h1031-s-no-gm?",
+               "picture": "https://lh3.googleusercontent.com/pw/AP1GczPh-pacw6g6fQP9fQrE-9PXjKkP9eG6R2zJaC_Gfpitbs0AL0qgQCFsLSk_V33-HZaw4EUuRPGVhfhAMufzwIE89jO04r7RNAE5PuYrgNpS4zvMnhwA4rwWD_i4_UYcVa8M7opK9itevV3glK40CeN8hg=w743-h1031-s-no-gm",
                "url": "https://photos.app.goo.gl/iHEwor9nnUUKXWkp8",
                "ingress-swag": "https://www.ingress-swag.com/biocards/chewduckka/",
                "desscription": "<placeholder>",
@@ -28,7 +28,7 @@
            "geometry": {
                "coordinates": [
                    19.936,
-                   50.062
+                   50.061
                ],
                "type": "Point"
            },
@@ -46,14 +46,4 @@
            "id": "2"
        }
    ]
-}
-
-
-
-                "status": "Homezone",
-                "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany"
-            },
-            "id": "2"
-        }
-    ]
 }
