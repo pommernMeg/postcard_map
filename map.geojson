@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    3.490218,
+                    51.563202
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chemnitz +Theta - Domburg",
+                "url": "https://bannergress.com/banner/chemnitz-theta-domburg-478b",
+                "picture": "https://api.bannergress.com/bnrs/pictures/ee0f5ca50f1cc8d4c78b1820541bc873"
+            },
+            "id": "478b"
+        }
+    ]
+}
