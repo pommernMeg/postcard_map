@@ -1,40 +1,46 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-       {
-           "type": "Feature",
-           "geometry": {
-               "coordinates": [
-                   19.938,
-                   50.062
-               ],
-               "type": "Point"
-           },
-           "properties": {
-               "name": "Chewduckka",
-               "number": "1",
-               "picture": "https://lh3.googleusercontent.com/pw/AP1GczPh-pacw6g6fQP9fQrE-9PXjKkP9eG6R2zJaC_Gfpitbs0AL0qgQCFsLSk_V33-HZaw4EUuRPGVhfhAMufzwIE89jO04r7RNAE5PuYrgNpS4zvMnhwA4rwWD_i4_UYcVa8M7opK9itevV3glK40CeN8hg=w743-h1031-s-no-gm",
-               "url": "https://photos.app.goo.gl/iHEwor9nnUUKXWkp8",
-               "ingress-swag": "https://www.ingress-swag.com/biocards/chewduckka/",
-               "desscription": "<placeholder>",
-               "from": "@r3f1Zul",
-               "status": "Gift",
-               "place": "Krakow, Poland"
-           },
-           "id": "1"
-       },
-       {
-           "type": "Feature",
-           "geometry": {
-               "coordinates": [
-                   19.936,
-                   50.061
-               ],
-               "type": "Point"
-           },
-           "properties": {
-               "name": "Mistress Quack",
-               "number": "2",
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    13.74613,
+                    53.507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": " ... tu Hus, is tu Hus",
+                "number": "1",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczMIfTmAGcnB-_1vtaVXs9MJ5vvRFwYCt1lQQvXppHrw0D3sdxN2nCWK3YrzMlK1W8Hex67sXymEBSEGwWWnCaR8d9C9VH_UeHlGlbbRt7WOzO8c6FzMMGL3Oe8wH1eZ3LlukCc_LZ8McL3iUtg0_b6_uw=w1081-h1081-s-no-gm",
+                "url": "https://photos.app.goo.gl/ctaHxbJbEsGtQkE29",
+                "status": "Homezone",
+                "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany"
+            },
+            "id": "1"
+        },
+{
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    13.7462,
+                    53.5072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strasburg Uckermark ",
+                "number": "2",
+                "picture": "https://lh3.googleusercontent.com/pw/AP1GczOpIjc4P1NfCgZFrLu1iP_CC7dBQM3JmbxSvIogwsIrgGQzkCOiabrLKu7NwYdUmIe7z8grueFNo8UTDjMBj7E8T48Qa2SPx7QK_B0s4GBQmS3TIZZhxhzZJt9NS4l4W2QogX-TMUqceZG5BTTQ1zsOOw=w1081-h1081-s-no-gm",
+                "url": "https://photos.app.goo.gl/Sk5krHyqFppgVc6T6",
+                "status": "Homezone",
+                "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany"
+            },
+            "id": "2"
+        }
+    ]
+}               "number": "2",
                "picture": "https://lh3.googleusercontent.com/pw/AP1GczPeFK-HWFh6uWQIcF5CEd9qOyZhaVQfM2Kw_vmvnNbLIeHT_yXTXivtzQ1LFl-3IfF6tiBuYBgeOSlYik7YKhSvnILeeMgrLAWS7OWXxjjTQVwemajjRCiNvaj8dvP1eDRWMiEuVfK3UWXXtz7YkekDkQ=w743-h1031-s-no-gm",
                "url": "https://photos.app.goo.gl/2qvxuudDkkL6y7s87",
                "ingress-swag": "https://www.ingress-swag.com/biocards/mistress-quack/",
