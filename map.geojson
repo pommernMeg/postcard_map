@@ -5,17 +5,19 @@
             "type": "Feature",
             "geometry": {
                 "coordinates": [
-                    3.490218,
-                    51.563202
+                    53.507,
+                    13.74613
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Chemnitz +Theta - Domburg",
-                "url": "https://bannergress.com/banner/chemnitz-theta-domburg-478b",
-                "picture": "https://api.bannergress.com/bnrs/pictures/ee0f5ca50f1cc8d4c78b1820541bc873"
+                "name": " ... tu Hus, is tu Hus",
+                "picture": "https://photos.google.com/share/AF1QipOfDFDVMBGrvlssWU-G2DtX14wzdVWqF53EG0EOcI-sld_j3t8lARBcODzIGRMW4A/photo/AF1QipN4lpA1VTLqlXvpNB3FwAd3TlvIuWUfKAG4_IXt?key=Vk5OdjRITkVjdklubW1CdVRFZGV0dkFfa0xMQy1R",
+                "url": "https://photos.app.goo.gl/ctaHxbJbEsGtQkE29",
+                "status": "Homezone",
+                "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany"
             },
-            "id": "478b"
+            "id": "1"
         }
     ]
 }
