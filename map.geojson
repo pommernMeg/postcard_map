@@ -1,62 +1,2855 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "coordinates": [
-                    13.74613,
-                    53.507
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": " ... tu Hus, is tu Hus",
-                "number": "1",
-                "picture": "https://lh3.googleusercontent.com/pw/AP1GczMIfTmAGcnB-_1vtaVXs9MJ5vvRFwYCt1lQQvXppHrw0D3sdxN2nCWK3YrzMlK1W8Hex67sXymEBSEGwWWnCaR8d9C9VH_UeHlGlbbRt7WOzO8c6FzMMGL3Oe8wH1eZ3LlukCc_LZ8McL3iUtg0_b6_uw=w1081-h1081-s-no-gm",
-                "url": "https://photos.app.goo.gl/ctaHxbJbEsGtQkE29",
-                "status": "Homezone",
-                "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany"
-            },
-            "id": "1"
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            13.74613,
+            53.507
+          ],
+          "type": "Point"
         },
-{
-            "type": "Feature",
-            "geometry": {
-                "coordinates": [
-                    13.7462,
-                    53.5072
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Strasburg Uckermark ",
-                "number": "2",
-                "picture": "https://lh3.googleusercontent.com/pw/AP1GczOpIjc4P1NfCgZFrLu1iP_CC7dBQM3JmbxSvIogwsIrgGQzkCOiabrLKu7NwYdUmIe7z8grueFNo8UTDjMBj7E8T48Qa2SPx7QK_B0s4GBQmS3TIZZhxhzZJt9NS4l4W2QogX-TMUqceZG5BTTQ1zsOOw=w1081-h1081-s-no-gm",
-                "url": "https://photos.app.goo.gl/Sk5krHyqFppgVc6T6",
-                "status": "Homezone",
-                "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany"
-            },
-            "id": "2"
+        "properties": {
+          "name": " ... tu Hus, is tu Hus",
+          "number": "1",
+          "picture": "https://lh3.googleusercontent.com/pw/AP1GczMIfTmAGcnB-_1vtaVXs9MJ5vvRFwYCt1lQQvXppHrw0D3sdxN2nCWK3YrzMlK1W8Hex67sXymEBSEGwWWnCaR8d9C9VH_UeHlGlbbRt7WOzO8c6FzMMGL3Oe8wH1eZ3LlukCc_LZ8McL3iUtg0_b6_uw=w1081-h1081-s-no-gm",
+          "url": "https://photos.app.goo.gl/ctaHxbJbEsGtQkE29",
+          "status": "Homezone",
+          "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany",
+          "id": 1
         },
-{
-            "type": "Feature",
-            "geometry": {
-                "coordinates": [
-                    13.0733185,
-                    54.340612
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Hansestadt Stralsund",
-                "number": "3",
-                "picture": "https://lh3.googleusercontent.com/pw/AP1GczOKX2HjunXGOIhMozrSnHIbsBDSRxcGAMbcBSpo3oyl8xTDAkRpmMoiVRLKn67ized0Mv5EPTL6svFAJRzaOaQnFNf0JpIx6DZhntFFF9v9a_ZF4dm5HrI9IFkJFbyio7ybCB88U_O_TS6B-nQwDSuHGw=w2000-h2000-s-no-gm",
-                "url": "https://photos.app.goo.gl/xDVrZYeRoxAf7Fw29",
-                "status": "Homezone",
-                "place": "Stralsund, Mecklenburg Vorpommern, Germany"
-            },
-            "id": "3"
-        }
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            13.7462,
+            53.5072
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "name": "Strasburg Uckermark ",
+          "number": "2",
+          "picture": "https://lh3.googleusercontent.com/pw/AP1GczOpIjc4P1NfCgZFrLu1iP_CC7dBQM3JmbxSvIogwsIrgGQzkCOiabrLKu7NwYdUmIe7z8grueFNo8UTDjMBj7E8T48Qa2SPx7QK_B0s4GBQmS3TIZZhxhzZJt9NS4l4W2QogX-TMUqceZG5BTTQ1zsOOw=w1081-h1081-s-no-gm",
+          "url": "https://photos.app.goo.gl/Sk5krHyqFppgVc6T6",
+          "status": "Homezone",
+          "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany",
+          "id": 2
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            13.0733185,
+            54.340612
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "name": "Hansestadt Stralsund",
+          "number": "3",
+          "picture": "https://lh3.googleusercontent.com/pw/AP1GczOKX2HjunXGOIhMozrSnHIbsBDSRxcGAMbcBSpo3oyl8xTDAkRpmMoiVRLKn67ized0Mv5EPTL6svFAJRzaOaQnFNf0JpIx6DZhntFFF9v9a_ZF4dm5HrI9IFkJFbyio7ybCB88U_O_TS6B-nQwDSuHGw=w2000-h2000-s-no-gm",
+          "url": "https://photos.app.goo.gl/xDVrZYeRoxAf7Fw29",
+          "status": "Homezone",
+          "place": "Stralsund, Mecklenburg Vorpommern, Germany",
+          "id": 3
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.74613,
+            53.507082
+          ]
+        },
+        "properties": {
+          "name": "... Tu Hus, is tu Hus",
+          "place": "Strasburg Uckermark",
+          "url": "19880411_1.png",
+          "picture": "https://photos.app.goo.gl/ctaHxbJbEsGtQkE29",
+          "id": 4
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.74613,
+            53.506918
+          ]
+        },
+        "properties": {
+          "name": "Strasburg Uckermark",
+          "place": "Strasburg Uckermark",
+          "url": "19880411_2.png",
+          "picture": "https://photos.app.goo.gl/FzmHy6VpRRcE1hH3A",
+          "id": 5
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.574986,
+            53.542777
+          ]
+        },
+        "properties": {
+          "name": "Stralsund",
+          "place": "Hansestadt Stralsund",
+          "url": "20100901_1.png",
+          "picture": "https://photos.app.goo.gl/xDVrZYeRoxAf7Fw29",
+          "id": 6
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.574716,
+            53.542777
+          ]
+        },
+        "properties": {
+          "name": "Rostock",
+          "place": "Hansestadt Rostock",
+          "url": "",
+          "picture": "",
+          "id": 7
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.031799,
+            51.109422
+          ]
+        },
+        "properties": {
+          "name": "Greifswald",
+          "place": "Hansestadt Greifswald",
+          "url": "",
+          "picture": "",
+          "id": 8
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.031608,
+            51.109491
+          ]
+        },
+        "properties": {
+          "name": "Bergen auf Rügen",
+          "place": "Bergen auf Rügen",
+          "url": "",
+          "picture": "",
+          "id": 9
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.031608,
+            51.109353
+          ]
+        },
+        "properties": {
+          "name": "Schwedt/Oder",
+          "place": "Schwedt/Oder",
+          "url": "",
+          "picture": "",
+          "id": 10
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.937035,
+            50.06188
+          ]
+        },
+        "properties": {
+          "name": "Hannover",
+          "place": "Hannover",
+          "url": "",
+          "picture": "",
+          "id": 11
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.936848,
+            50.061949
+          ]
+        },
+        "properties": {
+          "name": "Hamburg",
+          "place": "Hamburg",
+          "url": "",
+          "picture": "",
+          "id": 12
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.936848,
+            50.061811
+          ]
+        },
+        "properties": {
+          "name": "Röbel/Müritz",
+          "place": "Röbel/Müritz",
+          "url": "20150703_1.png",
+          "picture": "",
+          "id": 13
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.01236,
+            52.229676
+          ]
+        },
+        "properties": {
+          "name": "Szczecin",
+          "place": "Szczecin",
+          "url": "",
+          "picture": "",
+          "id": 14
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.012164,
+            52.229745
+          ]
+        },
+        "properties": {
+          "name": "Würzburg",
+          "place": "Würzburg",
+          "url": "",
+          "picture": "",
+          "id": 15
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.012164,
+            52.229607
+          ]
+        },
+        "properties": {
+          "name": "München",
+          "place": "München",
+          "url": "20160701.png",
+          "picture": "",
+          "id": 16
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.653137,
+            54348.0
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe München",
+          "place": "Hard Rock Cafe München",
+          "url": "",
+          "picture": "",
+          "id": 17
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.652931,
+            54.348069
+          ]
+        },
+        "properties": {
+          "name": "Katzow",
+          "place": "Katzow",
+          "url": "",
+          "picture": "",
+          "id": 18
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.652931,
+            54.347931
+          ]
+        },
+        "properties": {
+          "name": "Ismaning",
+          "place": "Ismaning",
+          "url": "",
+          "picture": "",
+          "id": 19
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.151771,
+            51.5046
+          ]
+        },
+        "properties": {
+          "name": "Landsberg",
+          "place": "Landsberg",
+          "url": "",
+          "picture": "",
+          "id": 20
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.152029,
+            51.5046
+          ]
+        },
+        "properties": {
+          "name": "Heidelberg",
+          "place": "Heidelberg",
+          "url": "",
+          "picture": "",
+          "id": 21
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.033909,
+            51.53695
+          ]
+        },
+        "properties": {
+          "name": "Ingolstadt",
+          "place": "Ingolstadt",
+          "url": "",
+          "picture": "",
+          "id": 22
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.033651,
+            51.53695
+          ]
+        },
+        "properties": {
+          "name": "Nürnberg",
+          "place": "Nürnberg",
+          "url": "20180512_1.png",
+          "picture": "",
+          "id": 23
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.255812,
+            48.177066
+          ]
+        },
+        "properties": {
+          "name": "Fürstenfeldbruck",
+          "place": "Fürstenfeldbruck",
+          "url": "",
+          "picture": "",
+          "id": 24
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.835289,
+            48.27538
+          ]
+        },
+        "properties": {
+          "name": "Eching",
+          "place": "Eching",
+          "url": "",
+          "picture": "",
+          "id": 25
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.55,
+            47.36667
+          ]
+        },
+        "properties": {
+          "name": "Zürich",
+          "place": "Zürich",
+          "url": "",
+          "picture": "",
+          "id": 26
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.877031,
+            48.401673
+          ]
+        },
+        "properties": {
+          "name": "Augsburg",
+          "place": "Augsburg",
+          "url": "20180113_1.png",
+          "picture": "",
+          "id": 27
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.010424,
+            48.425856
+          ]
+        },
+        "properties": {
+          "name": "Ulm",
+          "place": "Ulm",
+          "url": "",
+          "picture": "",
+          "id": 28
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.629379,
+            49.872516
+          ]
+        },
+        "properties": {
+          "name": "Darmstadt",
+          "place": "Darmstadt",
+          "url": "",
+          "picture": "",
+          "id": 29
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.662463,
+            50.103859
+          ]
+        },
+        "properties": {
+          "name": "Frankfurt am Main",
+          "place": "Frankfurt am Main",
+          "url": "",
+          "picture": "",
+          "id": 30
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.459241,
+            51.519502
+          ]
+        },
+        "properties": {
+          "name": "Dortmund",
+          "place": "Dortmund",
+          "url": "20170325_1.png",
+          "picture": "",
+          "id": 31
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.451085,
+            52.530765
+          ]
+        },
+        "properties": {
+          "name": "Berlin",
+          "place": "Berlin",
+          "url": "20170410_1.png",
+          "picture": "",
+          "id": 32
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.329474,
+            52.503112
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe Berlin",
+          "place": "Hard Rock Cafe Berlin",
+          "url": "",
+          "picture": "",
+          "id": 33
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.469879,
+            49.479716
+          ]
+        },
+        "properties": {
+          "name": "Mannheim",
+          "place": "Mannheim",
+          "url": "20170430_1.png",
+          "picture": "",
+          "id": 34
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.373875,
+            51.340902
+          ]
+        },
+        "properties": {
+          "name": "Leipzig",
+          "place": "Leipzig",
+          "url": "",
+          "picture": "",
+          "id": 35
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.099669,
+            49.012232
+          ]
+        },
+        "properties": {
+          "name": "Regensburg",
+          "place": "Regensburg",
+          "url": "20170715_1.png",
+          "picture": "",
+          "id": 36
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.126828,
+            47.859894
+          ]
+        },
+        "properties": {
+          "name": "Rosenheim",
+          "place": "Rosenheim",
+          "url": "",
+          "picture": "",
+          "id": 37
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.045071,
+            47.81307
+          ]
+        },
+        "properties": {
+          "name": "Salzburg",
+          "place": "Salzburg",
+          "url": "20180330_1.png",
+          "picture": "",
+          "id": 38
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.390574,
+            47.267778
+          ]
+        },
+        "properties": {
+          "name": "Innsbruck",
+          "place": "Innsbruck",
+          "url": "",
+          "picture": "",
+          "id": 39
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            113.93457,
+            22.521961
+          ]
+        },
+        "properties": {
+          "name": "Shenzhen",
+          "place": "Shenzhen",
+          "url": "",
+          "picture": "",
+          "id": 40
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.983008,
+            55.614216
+          ]
+        },
+        "properties": {
+          "name": "Malmö",
+          "place": "Malmö",
+          "url": "20180817_1.png",
+          "picture": "",
+          "id": 41
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.200302,
+            55.699278
+          ]
+        },
+        "properties": {
+          "name": "Lund",
+          "place": "Lund",
+          "url": "",
+          "picture": "",
+          "id": 42
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.564869,
+            55.672689
+          ]
+        },
+        "properties": {
+          "name": "København",
+          "place": "København",
+          "url": "20180815_1.png",
+          "picture": "",
+          "id": 43
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.819771,
+            55.432424
+          ]
+        },
+        "properties": {
+          "name": "Ystad",
+          "place": "Ystad",
+          "url": "",
+          "picture": "",
+          "id": 44
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.704512,
+            56.046343
+          ]
+        },
+        "properties": {
+          "name": "Helsingborg",
+          "place": "Helsingborg",
+          "url": "",
+          "picture": "",
+          "id": 45
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.156644,
+            55.372478
+          ]
+        },
+        "properties": {
+          "name": "Trelleborg",
+          "place": "Trelleborg",
+          "url": "",
+          "picture": "",
+          "id": 46
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.285629,
+            48.302064
+          ]
+        },
+        "properties": {
+          "name": "Linz",
+          "place": "Linz",
+          "url": "",
+          "picture": "",
+          "id": 47
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.736165,
+            39.551741
+          ]
+        },
+        "properties": {
+          "name": "Palma",
+          "place": "Palma",
+          "url": "20181019_1.png",
+          "picture": "",
+          "id": 48
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.924825,
+            39.599969
+          ]
+        },
+        "properties": {
+          "name": "Pina",
+          "place": "Pina",
+          "url": "20181018_1.png",
+          "picture": "",
+          "id": 49
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.25343,
+            52.73998
+          ]
+        },
+        "properties": {
+          "name": "Oranienburg",
+          "place": "Oranienburg",
+          "url": "20190501_1.png",
+          "picture": "",
+          "id": 50
+        },
+        "id": 50
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.25344,
+            52.73999
+          ]
+        },
+        "properties": {
+          "name": "Oranienburg",
+          "place": "Oranienburg",
+          "url": "20190501_2.png",
+          "picture": "",
+          "id": 51
+        },
+        "id": 51
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.999339,
+            53.121716
+          ]
+        },
+        "properties": {
+          "name": "Bydgoszcz",
+          "place": "Bydgoszcz",
+          "url": "",
+          "picture": "",
+          "id": 52
+        },
+        "id": 52
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.73832,
+            51.05089
+          ]
+        },
+        "properties": {
+          "name": "Dresden",
+          "place": "Dresden",
+          "url": "20191022_1.png",
+          "picture": "",
+          "id": 53
+        },
+        "id": 53
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.086667,
+            53.939722
+          ]
+        },
+        "properties": {
+          "name": "Drei Kaiserbäder",
+          "place": "Drei Kaiserbäder",
+          "url": "20200808_1.png",
+          "picture": "",
+          "id": 54
+        },
+        "id": 54
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.222507,
+            53.143656
+          ]
+        },
+        "properties": {
+          "name": "Oldenburg",
+          "place": "Oldenburg",
+          "url": "",
+          "picture": "",
+          "id": 55
+        },
+        "id": 55
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.926775,
+            51.536625
+          ]
+        },
+        "properties": {
+          "name": "Göttingen",
+          "place": "Göttingen",
+          "url": "",
+          "picture": "",
+          "id": 56
+        },
+        "id": 56
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.328287,
+            51.198624
+          ]
+        },
+        "properties": {
+          "name": "Bautzen",
+          "place": "Bautzen",
+          "url": "20210824_1.png",
+          "picture": "",
+          "id": 57
+        },
+        "id": 57
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.807913,
+            50.895038
+          ]
+        },
+        "properties": {
+          "name": "Zittau",
+          "place": "Zittau",
+          "url": "20210824_1.png",
+          "picture": "",
+          "id": 58
+        },
+        "id": 58
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.988436,
+            51.152832
+          ]
+        },
+        "properties": {
+          "name": "Görlitz",
+          "place": "Görlitz",
+          "url": "",
+          "picture": "",
+          "id": 59
+        },
+        "id": 59
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.407693,
+            53.634759
+          ]
+        },
+        "properties": {
+          "name": "Schwerin",
+          "place": "Schwerin",
+          "url": "",
+          "picture": "",
+          "id": 60
+        },
+        "id": 60
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.813466,
+            51.840705
+          ]
+        },
+        "properties": {
+          "name": "Wernigerode",
+          "place": "Wernigerode",
+          "url": "",
+          "picture": "",
+          "id": 61
+        },
+        "id": 61
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.648078,
+            51.771745
+          ]
+        },
+        "properties": {
+          "name": "Schierke",
+          "place": "Schierke",
+          "url": "",
+          "picture": "",
+          "id": 62
+        },
+        "id": 62
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.9671,
+            51.785974
+          ]
+        },
+        "properties": {
+          "name": "Blankenburg",
+          "place": "Blankenburg",
+          "url": "",
+          "picture": "",
+          "id": 63
+        },
+        "id": 63
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.02629,
+            51.732696
+          ]
+        },
+        "properties": {
+          "name": "Thale",
+          "place": "Thale",
+          "url": "20220822_1.png",
+          "picture": "",
+          "id": 64
+        },
+        "id": 64
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.954309,
+            50.948414
+          ]
+        },
+        "properties": {
+          "name": "Köln",
+          "place": "Köln",
+          "url": "",
+          "picture": "",
+          "id": 65
+        },
+        "id": 65
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.765517,
+            51.250359
+          ]
+        },
+        "properties": {
+          "name": "Düsseldorf",
+          "place": "Düsseldorf",
+          "url": "",
+          "picture": "",
+          "id": 66
+        },
+        "id": 66
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.147196,
+            51.258873
+          ]
+        },
+        "properties": {
+          "name": "Wuppertal",
+          "place": "Wuppertal",
+          "url": "20221101_1.png",
+          "picture": "",
+          "id": 67
+        },
+        "id": 67
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.122552,
+            50.702733
+          ]
+        },
+        "properties": {
+          "name": "Bonn",
+          "place": "Bonn",
+          "url": "",
+          "picture": "",
+          "id": 68
+        },
+        "id": 68
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            15.661534,
+            54.19255
+          ]
+        },
+        "properties": {
+          "name": "Kołobrzeg",
+          "place": "Kołobrzeg",
+          "url": "20230228_1.png",
+          "picture": "",
+          "id": 69
+        },
+        "id": 69
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.450507,
+            53.928287
+          ]
+        },
+        "properties": {
+          "name": "Miedzyzdrorie",
+          "place": "Miedzyzdrorie",
+          "url": "20230320_1.png",
+          "picture": "",
+          "id": 70
+        },
+        "id": 70
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.929261,
+            50.813524
+          ]
+        },
+        "properties": {
+          "name": "Chemnitz",
+          "place": "Chemnitz",
+          "url": "",
+          "picture": "",
+          "id": 71
+        },
+        "id": 71
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.249613,
+            53.55675
+          ]
+        },
+        "properties": {
+          "name": "Neubrandenburg",
+          "place": "Neubrandenburg",
+          "url": "",
+          "picture": "",
+          "id": 72
+        },
+        "id": 72
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.459296,
+            50.955324
+          ]
+        },
+        "properties": {
+          "name": "Wiehl",
+          "place": "Wiehl",
+          "url": "",
+          "picture": "",
+          "id": 73
+        },
+        "id": 73
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.727547,
+            50.995671
+          ]
+        },
+        "properties": {
+          "name": "Rotenburg an der Fulda",
+          "place": "Rotenburg an der Fulda",
+          "url": "",
+          "picture": "",
+          "id": 74
+        },
+        "id": 74
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.596265,
+            53.559104
+          ]
+        },
+        "properties": {
+          "name": "Bremerhaven",
+          "place": "Bremerhaven",
+          "url": "20230804_2.png",
+          "picture": "",
+          "id": 75
+        },
+        "id": 75
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.574851,
+            53.542777
+          ]
+        },
+        "properties": {
+          "name": "Klimahaus - Sardegna",
+          "place": "Klimahaus - Sardegna",
+          "url": "20230804_1.png",
+          "picture": "",
+          "id": 76
+        },
+        "id": 76
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.574851,
+            53.542777
+          ]
+        },
+        "properties": {
+          "name": "Klimahaus - Alaska",
+          "place": "Klimahaus - Alaska",
+          "url": "20230804_3.png",
+          "picture": "",
+          "id": 77
+        },
+        "id": 77
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.801694,
+            53.079296
+          ]
+        },
+        "properties": {
+          "name": "Bremen",
+          "place": "Bremen",
+          "url": "20240606_1.png",
+          "picture": "",
+          "id": 78
+        },
+        "id": 78
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.700066,
+            53.874677
+          ]
+        },
+        "properties": {
+          "name": "Cuxhaven",
+          "place": "Cuxhaven",
+          "url": "",
+          "picture": "",
+          "id": 79
+        },
+        "id": 79
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.892139,
+            54.174118
+          ]
+        },
+        "properties": {
+          "name": "Helgoland",
+          "place": "Helgoland",
+          "url": "20230801_1.png",
+          "picture": "",
+          "id": 80
+        },
+        "id": 80
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.487357,
+            53.922096
+          ]
+        },
+        "properties": {
+          "name": "Insel Neuwerk",
+          "place": "Insel Neuwerk",
+          "url": "20230802_1.png",
+          "picture": "",
+          "id": 81
+        },
+        "id": 81
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.686429,
+            53.865466
+          ]
+        },
+        "properties": {
+          "name": "Lübeck",
+          "place": "Lübeck",
+          "url": "20230805_1.png",
+          "picture": "",
+          "id": 82
+        },
+        "id": 82
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.319965,
+            53.925389
+          ]
+        },
+        "properties": {
+          "name": "Jarmen",
+          "place": "Jarmen",
+          "url": "",
+          "picture": "",
+          "id": 83
+        },
+        "id": 83
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.01571,
+            52.418607
+          ]
+        },
+        "properties": {
+          "name": "Potsdam",
+          "place": "Potsdam",
+          "url": "20230930_1.png",
+          "picture": "",
+          "id": 84
+        },
+        "id": 84
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.315398,
+            51.755623
+          ]
+        },
+        "properties": {
+          "name": "Cottbus",
+          "place": "Cottbus",
+          "url": "20231001_1.png",
+          "picture": "",
+          "id": 85
+        },
+        "id": 85
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            14.247078,
+            51.439544
+          ]
+        },
+        "properties": {
+          "name": "Hoyerswerda",
+          "place": "Hoyerswerda",
+          "url": "20231003_1.png",
+          "picture": "",
+          "id": 86
+        },
+        "id": 86
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.692341,
+            40.446617
+          ]
+        },
+        "properties": {
+          "name": "Madrid",
+          "place": "Madrid",
+          "url": "20231023_1.png",
+          "picture": "",
+          "id": 87
+        },
+        "id": 87
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.68983,
+            40.426052
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe Madrid",
+          "place": "Hard Rock Cafe Madrid",
+          "url": "",
+          "picture": "",
+          "id": 88
+        },
+        "id": 88
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.013883,
+            51.450938
+          ]
+        },
+        "properties": {
+          "name": "Essen",
+          "place": "Essen",
+          "url": "20231030_1.png",
+          "picture": "",
+          "id": 89
+        },
+        "id": 89
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.94657,
+            51.521454
+          ]
+        },
+        "properties": {
+          "name": "Bottrop",
+          "place": "Bottrop",
+          "url": "",
+          "picture": "",
+          "id": 90
+        },
+        "id": 90
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.853365,
+            51.47432
+          ]
+        },
+        "properties": {
+          "name": "Oberhausen",
+          "place": "Oberhausen",
+          "url": "",
+          "picture": "",
+          "id": 91
+        },
+        "id": 91
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.201576,
+            51.476918
+          ]
+        },
+        "properties": {
+          "name": "Bochum",
+          "place": "Bochum",
+          "url": "",
+          "picture": "",
+          "id": 92
+        },
+        "id": 92
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.026292,
+            51.531402
+          ]
+        },
+        "properties": {
+          "name": "Gelsenkirchen",
+          "place": "Gelsenkirchen",
+          "url": "",
+          "picture": "",
+          "id": 93
+        },
+        "id": 93
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.84945,
+            51.29685
+          ]
+        },
+        "properties": {
+          "name": "Ratingen",
+          "place": "Ratingen",
+          "url": "",
+          "picture": "",
+          "id": 94
+        },
+        "id": 94
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.630803,
+            41.153369
+          ]
+        },
+        "properties": {
+          "name": "Porto",
+          "place": "Porto",
+          "url": "20240315_1.png",
+          "picture": "",
+          "id": 95
+        },
+        "id": 95
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.616215,
+            41.136869
+          ]
+        },
+        "properties": {
+          "name": "Vila Nova de Gaia",
+          "place": "Vila Nova de Gaia",
+          "url": "",
+          "picture": "",
+          "id": 96
+        },
+        "id": 96
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.780387,
+            41.530679
+          ]
+        },
+        "properties": {
+          "name": "Esposende",
+          "place": "Esposende",
+          "url": "",
+          "picture": "",
+          "id": 97
+        },
+        "id": 97
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.818634,
+            41.695824
+          ]
+        },
+        "properties": {
+          "name": "Viana do Castelo",
+          "place": "Viana do Castelo",
+          "url": "",
+          "picture": "",
+          "id": 98
+        },
+        "id": 98
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.837845,
+            41.873208
+          ]
+        },
+        "properties": {
+          "name": "Caminha",
+          "place": "Caminha",
+          "url": "",
+          "picture": "",
+          "id": 99
+        },
+        "id": 99
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.840817,
+            41.87346
+          ]
+        },
+        "properties": {
+          "name": "Oia",
+          "place": "Oia",
+          "url": "",
+          "picture": "",
+          "id": 100
+        },
+        "id": 100
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.853287,
+            42.118874
+          ]
+        },
+        "properties": {
+          "name": "Baiona",
+          "place": "Baiona",
+          "url": "",
+          "picture": "",
+          "id": 101
+        },
+        "id": 101
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.800118,
+            42.170392
+          ]
+        },
+        "properties": {
+          "name": "Vigo",
+          "place": "Vigo",
+          "url": "",
+          "picture": "",
+          "id": 102
+        },
+        "id": 102
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.673093,
+            42.266205
+          ]
+        },
+        "properties": {
+          "name": "Redondela",
+          "place": "Redondela",
+          "url": "",
+          "picture": "",
+          "id": 103
+        },
+        "id": 103
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.633141,
+            42.41614
+          ]
+        },
+        "properties": {
+          "name": "Pontevedra",
+          "place": "Pontevedra",
+          "url": "",
+          "picture": "",
+          "id": 104
+        },
+        "id": 104
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.649295,
+            42.605273
+          ]
+        },
+        "properties": {
+          "name": "Caldas de Reis",
+          "place": "Caldas de Reis",
+          "url": "",
+          "picture": "",
+          "id": 105
+        },
+        "id": 105
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.661532,
+            42.739175
+          ]
+        },
+        "properties": {
+          "name": "Padrón",
+          "place": "Padrón",
+          "url": "",
+          "picture": "",
+          "id": 106
+        },
+        "id": 106
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.544395,
+            42.880688
+          ]
+        },
+        "properties": {
+          "name": "Santiago de Compostela",
+          "place": "Santiago de Compostela",
+          "url": "20240329_1.png",
+          "picture": "",
+          "id": 107
+        },
+        "id": 107
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.544395,
+            42.8806
+          ]
+        },
+        "properties": {
+          "name": "Santiago de Compostela",
+          "place": "Santiago de Compostela",
+          "url": "20240401_1.png",
+          "picture": "",
+          "id": 108
+        },
+        "id": 108
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.090562,
+            42.822419
+          ]
+        },
+        "properties": {
+          "name": "Carnota",
+          "place": "Carnota",
+          "url": "",
+          "picture": "",
+          "id": 109
+        },
+        "id": 109
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.262566,
+            42.906471
+          ]
+        },
+        "properties": {
+          "name": "Fisterra",
+          "place": "Fisterra",
+          "url": "",
+          "picture": "",
+          "id": 110
+        },
+        "id": 110
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -9.219645,
+            43.11198
+          ]
+        },
+        "properties": {
+          "name": "Muxía",
+          "place": "Muxía",
+          "url": "",
+          "picture": "",
+          "id": 111
+        },
+        "id": 111
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.261298,
+            47.43314
+          ]
+        },
+        "properties": {
+          "name": "Budapest",
+          "place": "Budapest",
+          "url": "",
+          "picture": "",
+          "id": 112
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.050889,
+            47.495984
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe Budapest",
+          "place": "Hard Rock Cafe Budapest",
+          "url": "",
+          "picture": "",
+          "id": 113
+        },
+        "id": 113
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.001923,
+            50.95418
+          ]
+        },
+        "properties": {
+          "name": "Erfurt",
+          "place": "Erfurt",
+          "url": "20240804_1.png",
+          "picture": "",
+          "id": 114
+        },
+        "id": 114
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.017936,
+            50.975147
+          ]
+        },
+        "properties": {
+          "name": "Schnatterinchen und Herr Fuchs",
+          "place": "Schnatterinchen und Herr Fuchs",
+          "url": "20240804_2.png",
+          "picture": "",
+          "id": 115
+        },
+        "id": 115
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.03102,
+            50.97845
+          ]
+        },
+        "properties": {
+          "name": "Pittiplatsch",
+          "place": "Pittiplatsch",
+          "url": "20240804_3.png",
+          "picture": "",
+          "id": 116
+        },
+        "id": 116
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.030975,
+            50.979694
+          ]
+        },
+        "properties": {
+          "name": "Schnatterinchen und Moppi",
+          "place": "Schnatterinchen und Moppi",
+          "url": "20240804_4.png",
+          "picture": "",
+          "id": 117
+        },
+        "id": 117
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.031231,
+            50.978603
+          ]
+        },
+        "properties": {
+          "name": "Krämerbrücke",
+          "place": "Krämerbrücke",
+          "url": "20240804_5.png",
+          "picture": "",
+          "id": 118
+        },
+        "id": 118
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.306402,
+            50.966154
+          ]
+        },
+        "properties": {
+          "name": "Wartburg",
+          "place": "Wartburg",
+          "url": "20240805_1.png",
+          "picture": "",
+          "id": 119
+        },
+        "id": 119
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.58539,
+            50.930393
+          ]
+        },
+        "properties": {
+          "name": "Jena",
+          "place": "Jena",
+          "url": "",
+          "picture": "",
+          "id": 120
+        },
+        "id": 120
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            11.328694,
+            50.977551
+          ]
+        },
+        "properties": {
+          "name": "Weimar",
+          "place": "Weimar",
+          "url": "20240808_1.png",
+          "picture": "",
+          "id": 121
+        },
+        "id": 121
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.709288,
+            50.946919
+          ]
+        },
+        "properties": {
+          "name": "Gothar",
+          "place": "Gothar",
+          "url": "20240809_1.png",
+          "picture": "",
+          "id": 122
+        },
+        "id": 122
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.386828,
+            39.463178
+          ]
+        },
+        "properties": {
+          "name": "València",
+          "place": "València",
+          "url": "20241101_1.png",
+          "picture": "",
+          "id": 123
+        },
+        "id": 123
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.377144,
+            39.46868
+          ]
+        },
+        "properties": {
+          "name": "hard Rock Cafe Valencia",
+          "place": "hard Rock Cafe Valencia",
+          "url": "",
+          "picture": "",
+          "id": 124
+        },
+        "id": 124
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.681693,
+            54.442829
+          ]
+        },
+        "properties": {
+          "name": "Zingst",
+          "place": "Zingst",
+          "url": "20241203_1.png",
+          "picture": "",
+          "id": 125
+        },
+        "id": 125
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.024048,
+            51.110706
+          ]
+        },
+        "properties": {
+          "name": "Wrocław",
+          "place": "Wrocław",
+          "url": "20250526_1.png",
+          "picture": "",
+          "id": 126
+        },
+        "id": 126
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.031672,
+            51.109422
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Breslau",
+          "place": "Hardrock Cafe Pin Breslau",
+          "url": "",
+          "picture": "",
+          "id": 127
+        },
+        "id": 127
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.031672,
+            51.109422
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Breslau",
+          "place": "Hardrock Cafe Pin Breslau",
+          "url": "",
+          "picture": "",
+          "id": 128
+        },
+        "id": 128
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            17.031672,
+            51.109422
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Breslau",
+          "place": "Hardrock Cafe Pin Breslau",
+          "url": "",
+          "picture": "",
+          "id": 129
+        },
+        "id": 129
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.947493,
+            50.068395
+          ]
+        },
+        "properties": {
+          "name": "Kraków",
+          "place": "Kraków",
+          "url": "20250527_1.png",
+          "picture": "",
+          "id": 130
+        },
+        "id": 130
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.93691,
+            50.06188
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Krakow",
+          "place": "Hardrock Cafe Pin Krakow",
+          "url": "",
+          "picture": "",
+          "id": 131
+        },
+        "id": 131
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.93691,
+            50.06188
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Krakow",
+          "place": "Hardrock Cafe Pin Krakow",
+          "url": "",
+          "picture": "",
+          "id": 132
+        },
+        "id": 132
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            19.93691,
+            50.06188
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Krakow",
+          "place": "Hardrock Cafe Pin Krakow",
+          "url": "",
+          "picture": "",
+          "id": 133
+        },
+        "id": 133
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.00327,
+            52.22884
+          ]
+        },
+        "properties": {
+          "name": "Warszawa",
+          "place": "Warszawa",
+          "url": "20250530_1.png",
+          "picture": "",
+          "id": 134
+        },
+        "id": 134
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.012229,
+            52.229676
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Warschau",
+          "place": "Hardrock Cafe Pin Warschau",
+          "url": "",
+          "picture": "",
+          "id": 135
+        },
+        "id": 135
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.012229,
+            52.229676
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Warschau",
+          "place": "Hardrock Cafe Pin Warschau",
+          "url": "",
+          "picture": "",
+          "id": 136
+        },
+        "id": 136
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.012229,
+            52.229676
+          ]
+        },
+        "properties": {
+          "name": "Hardrock Cafe Pin Warschau",
+          "place": "Hardrock Cafe Pin Warschau",
+          "url": "",
+          "picture": "",
+          "id": 137
+        },
+        "id": 137
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.614604,
+            53.000103
+          ]
+        },
+        "properties": {
+          "name": "Toruń",
+          "place": "Toruń",
+          "url": "20250602_1.png",
+          "picture": "",
+          "id": 138
+        },
+        "id": 138
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.644332,
+            54.356591
+          ]
+        },
+        "properties": {
+          "name": "Gdańsk",
+          "place": "Gdańsk",
+          "url": "20250604_1.png",
+          "picture": "",
+          "id": 139
+        },
+        "id": 139
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.65,
+            54.348
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe Danzig",
+          "place": "Hard Rock Cafe Danzig",
+          "url": "",
+          "picture": "",
+          "id": 140
+        },
+        "id": 140
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.66,
+            54.34
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe Danzig",
+          "place": "Hard Rock Cafe Danzig",
+          "url": "",
+          "picture": "",
+          "id": 141
+        },
+        "id": 141
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.64,
+            54.35
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe Danzig",
+          "place": "Hard Rock Cafe Danzig",
+          "url": "",
+          "picture": "",
+          "id": 142
+        },
+        "id": 142
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.537007,
+            54.521052
+          ]
+        },
+        "properties": {
+          "name": "Gdynia",
+          "place": "Gdynia",
+          "url": "20250604_1.png",
+          "picture": "",
+          "id": 143
+        },
+        "id": 143
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            18.563637,
+            54.443187
+          ]
+        },
+        "properties": {
+          "name": "Sopot",
+          "place": "Sopot",
+          "url": "20250604_2.png",
+          "picture": "",
+          "id": 144
+        },
+        "id": 144
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.91243,
+            52.402749
+          ]
+        },
+        "properties": {
+          "name": "Poznań",
+          "place": "Poznań",
+          "url": "20250606_1.png",
+          "picture": "",
+          "id": 145
+        },
+        "id": 145
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.076048,
+            52.843112
+          ]
+        },
+        "properties": {
+          "name": "Hermannsburg",
+          "place": "Hermannsburg",
+          "url": "20250809_1.png",
+          "picture": "",
+          "id": 146
+        },
+        "id": 146
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.099485,
+            52.627
+          ]
+        },
+        "properties": {
+          "name": "Celle",
+          "place": "Celle",
+          "url": "20250807_3.png",
+          "picture": "",
+          "id": 147
+        },
+        "id": 147
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.553117,
+            52.969741
+          ]
+        },
+        "properties": {
+          "name": "Uelzen",
+          "place": "Uelzen",
+          "url": "20250805_1.png",
+          "picture": "",
+          "id": 148
+        },
+        "id": 148
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            10.406782,
+            53.246768
+          ]
+        },
+        "properties": {
+          "name": "Lüneburg",
+          "place": "Lüneburg",
+          "url": "20250806_1.png",
+          "picture": "",
+          "id": 149
+        },
+        "id": 149
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            9.841018,
+            52.991806
+          ]
+        },
+        "properties": {
+          "name": "Soltau",
+          "place": "Soltau",
+          "url": "20250807_1.png",
+          "picture": "",
+          "id": 150
+        },
+        "id": 150
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            13.465679,
+            48.57416
+          ]
+        },
+        "properties": {
+          "name": "Passau",
+          "place": "Passau",
+          "url": "20250822_1.png",
+          "picture": "",
+          "id": 151
+        },
+        "id": 151
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.137448,
+            52.194219
+          ]
+        },
+        "properties": {
+          "name": "Cambridge",
+          "place": "Cambridge",
+          "url": "20250919_1.png",
+          "picture": "",
+          "id": 152
+        },
+        "id": 152
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.123598,
+            51.531603
+          ]
+        },
+        "properties": {
+          "name": "London",
+          "place": "London",
+          "url": "20250918_1.png",
+          "picture": "",
+          "id": 153
+        },
+        "id": 153
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.1519,
+            51.5046
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe London Pin",
+          "place": "Hard Rock Cafe London Pin",
+          "url": "",
+          "picture": "",
+          "id": 154
+        },
+        "id": 154
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.1519,
+            51.5046
+          ]
+        },
+        "properties": {
+          "name": "Hard Rock Cafe London Drachen Pin",
+          "place": "Hard Rock Cafe London Drachen Pin",
+          "url": "",
+          "picture": "",
+          "id": 155
+        },
+        "id": 155
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.124023,
+            51.532249
+          ]
+        },
+        "properties": {
+          "name": "Kings Cross - Plattform 9 3/4",
+          "place": "Kings Cross - Plattform 9 3/4",
+          "url": "20250918_2.png",
+          "picture": "",
+          "id": 156
+        },
+        "id": 156
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.03378,
+            51.53695
+          ]
+        },
+        "properties": {
+          "name": "Dr Who Fanshop London - Tardis",
+          "place": "Dr Who Fanshop London - Tardis",
+          "url": "20250918_3.png",
+          "picture": "",
+          "id": 157
+        },
+        "id": 157
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.03378,
+            51.53695
+          ]
+        },
+        "properties": {
+          "name": "Dr Who Fanshop London - Dr. Who",
+          "place": "Dr Who Fanshop London - Dr. Who",
+          "url": "20250918_4.png",
+          "picture": "",
+          "id": 158
+        },
+        "id": 158
+      }
     ]
-}
+  }
