@@ -3,714 +3,755 @@
     "features": [
       {
         "type": "Feature",
-        "geometry": {
-          "coordinates": [
-            13.74613,
-            53.507
-          ],
-          "type": "Point"
-        },
-        "properties": {
-          "name": " ... tu Hus, is tu Hus",
-          "number": "1",
-          "picture": "https://lh3.googleusercontent.com/pw/AP1GczMIfTmAGcnB-_1vtaVXs9MJ5vvRFwYCt1lQQvXppHrw0D3sdxN2nCWK3YrzMlK1W8Hex67sXymEBSEGwWWnCaR8d9C9VH_UeHlGlbbRt7WOzO8c6FzMMGL3Oe8wH1eZ3LlukCc_LZ8McL3iUtg0_b6_uw=w1081-h1081-s-no-gm",
-          "url": "https://photos.app.goo.gl/ctaHxbJbEsGtQkE29",
-          "status": "Homezone",
-          "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany",
-          "id": 1
-        },
-        "id": 1
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "coordinates": [
-            13.7462,
-            53.5072
-          ],
-          "type": "Point"
-        },
-        "properties": {
-          "name": "Strasburg Uckermark ",
-          "number": "2",
-          "picture": "https://lh3.googleusercontent.com/pw/AP1GczOpIjc4P1NfCgZFrLu1iP_CC7dBQM3JmbxSvIogwsIrgGQzkCOiabrLKu7NwYdUmIe7z8grueFNo8UTDjMBj7E8T48Qa2SPx7QK_B0s4GBQmS3TIZZhxhzZJt9NS4l4W2QogX-TMUqceZG5BTTQ1zsOOw=w1081-h1081-s-no-gm",
-          "url": "https://photos.app.goo.gl/Sk5krHyqFppgVc6T6",
-          "status": "Homezone",
-          "place": "Strasburg Uckermark, Mecklenburg Vorpommern, Germany",
-          "id": 2
-        },
-        "id": 2
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "coordinates": [
-            13.0733185,
-            54.340612
-          ],
-          "type": "Point"
-        },
-        "properties": {
-          "name": "Hansestadt Stralsund",
-          "number": "3",
-          "picture": "https://lh3.googleusercontent.com/pw/AP1GczOKX2HjunXGOIhMozrSnHIbsBDSRxcGAMbcBSpo3oyl8xTDAkRpmMoiVRLKn67ized0Mv5EPTL6svFAJRzaOaQnFNf0JpIx6DZhntFFF9v9a_ZF4dm5HrI9IFkJFbyio7ybCB88U_O_TS6B-nQwDSuHGw=w2000-h2000-s-no-gm",
-          "url": "https://photos.app.goo.gl/xDVrZYeRoxAf7Fw29",
-          "status": "Homezone",
-          "place": "Stralsund, Mecklenburg Vorpommern, Germany",
-          "id": 3
-        },
-        "id": 3
-      },
-      {
-        "type": "Feature",
+        "id": 1,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.74613,
-            53.507082
+            53.507,
+            13.74613
           ]
         },
         "properties": {
-          "name": "... Tu Hus, is tu Hus",
-          "place": "Strasburg Uckermark",
-          "url": "19880411_1.png",
+          "number": 1,
+          "Title": "... Tu Hus, is tu Hus",
+          "Place": "Strasburg Uckermark ",
+          "status": "Homezone",
+          "Url": "19880411_1.png",
           "picture": "https://photos.app.goo.gl/ctaHxbJbEsGtQkE29",
-          "id": 4
-        },
-        "id": 4
+          "Datum": "11.04.1988",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 2,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.74613,
-            53.506918
+            53.50672,
+            13.74613
           ]
         },
         "properties": {
-          "name": "Strasburg Uckermark",
-          "place": "Strasburg Uckermark",
-          "url": "19880411_2.png",
+          "number": 2,
+          "Title": "Strasburg Uckermark",
+          "Place": "Strasburg Uckermark ",
+          "status": "Homezone",
+          "Url": "19880411_2.png",
           "picture": "https://photos.app.goo.gl/FzmHy6VpRRcE1hH3A",
-          "id": 5
-        },
-        "id": 5
+          "Datum": "11.04.1988",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 3,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.574986,
-            53.542777
+            54.340612,
+            13.073318
           ]
         },
         "properties": {
-          "name": "Stralsund",
-          "place": "Hansestadt Stralsund",
-          "url": "20100901_1.png",
+          "number": 3,
+          "Title": "Stralsund",
+          "Place": "Hansestadt Stralsund",
+          "status": "Homezone",
+          "Url": "20100901_1.png",
           "picture": "https://photos.app.goo.gl/xDVrZYeRoxAf7Fw29",
-          "id": 6
-        },
-        "id": 6
+          "Datum": "10.09.2010",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 4,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.574716,
-            53.542777
+            54.13637,
+            12.08342
           ]
         },
         "properties": {
-          "name": "Rostock",
-          "place": "Hansestadt Rostock",
-          "url": "",
+          "number": 4,
+          "Title": "Rostock",
+          "Place": "Hansestadt Rostock",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 7
-        },
-        "id": 7
+          "Datum": "24.11.2012",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 5,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            17.031799,
-            51.109422
+            54.095094,
+            13.374606
           ]
         },
         "properties": {
-          "name": "Greifswald",
-          "place": "Hansestadt Greifswald",
-          "url": "",
+          "number": 5,
+          "Title": "Greifswald",
+          "Place": "Hansestadt Greifswald",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 8
-        },
-        "id": 8
+          "Datum": "31.07.2013",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 6,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            17.031608,
-            51.109491
+            54.420277,
+            13.501637
           ]
         },
         "properties": {
-          "name": "Bergen auf Rügen",
-          "place": "Bergen auf Rügen",
-          "url": "",
+          "number": 6,
+          "Title": "Bergen auf Rügen",
+          "Place": "Bergen auf Rügen",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 9
-        },
-        "id": 9
+          "Datum": "13.09.2014",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 7,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            17.031608,
-            51.109353
+            53.06305,
+            14.267406
           ]
         },
         "properties": {
-          "name": "Schwedt/Oder",
-          "place": "Schwedt/Oder",
-          "url": "",
+          "number": 7,
+          "Title": "Schwedt/Oder",
+          "Place": "Schwedt/Oder",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 10
-        },
-        "id": 10
+          "Datum": "22.11.2014",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 8,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.937035,
-            50.06188
+            52.376538,
+            9.739697
           ]
         },
         "properties": {
-          "name": "Hannover",
-          "place": "Hannover",
-          "url": "",
+          "number": 8,
+          "Title": "Hannover",
+          "Place": "Hannover",
+          "status": "Ingress/Anomalie",
+          "Url": "",
           "picture": "",
-          "id": 11
-        },
-        "id": 11
+          "Datum": "27.03.2015",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 9,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.936848,
-            50.061949
+            53.552968,
+            10.006924
           ]
         },
         "properties": {
-          "name": "Hamburg",
-          "place": "Hamburg",
-          "url": "",
+          "number": 9,
+          "Title": "Hamburg",
+          "Place": "Hamburg",
+          "status": "Ingress/Anomalie",
+          "Url": "",
           "picture": "",
-          "id": 12
-        },
-        "id": 12
+          "Datum": "29.03.2015",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 10,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.936848,
-            50.061811
+            53.394002,
+            12.624108
           ]
         },
         "properties": {
-          "name": "Röbel/Müritz",
-          "place": "Röbel/Müritz",
-          "url": "20150703_1.png",
+          "number": 10,
+          "Title": "Röbel/Müritz",
+          "Place": "Röbel/Müritz",
+          "status": "Freizeit",
+          "Url": "20150703_1.png",
           "picture": "",
-          "id": 13
-        },
-        "id": 13
+          "Datum": "03.07.2015",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 11,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            21.01236,
-            52.229676
+            53.418763,
+            14.550644
           ]
         },
         "properties": {
-          "name": "Szczecin",
-          "place": "Szczecin",
-          "url": "",
+          "number": 11,
+          "Title": "Szczecin",
+          "Place": "Szczecin",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 14
-        },
-        "id": 14
+          "Datum": "30.04.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 12,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            21.012164,
-            52.229745
+            49.801598,
+            9.935751
           ]
         },
         "properties": {
-          "name": "Würzburg",
-          "place": "Würzburg",
-          "url": "",
+          "number": 12,
+          "Title": "Würzburg",
+          "Place": "Würzburg",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 15
-        },
-        "id": 15
+          "Datum": "01.06.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 13,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            21.012164,
-            52.229607
+            48.162174,
+            11.579551
           ]
         },
         "properties": {
-          "name": "München",
-          "place": "München",
-          "url": "20160701.png",
+          "number": 13,
+          "Title": "München",
+          "Place": "München",
+          "status": "Ingress",
+          "Url": "20160701.png",
           "picture": "",
-          "id": 16
-        },
-        "id": 16
+          "Datum": "01.07.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 14,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.653137,
-            54348.0
+            48.13778,
+            11.57944
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe München",
-          "place": "Hard Rock Cafe München",
-          "url": "",
+          "number": 14,
+          "Title": "Hard Rock Cafe München",
+          "Place": "Hard Rock Cafe München",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 17
-        },
-        "id": 17
+          "Datum": "01.07.2016",
+          "Typ": "Pin",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 15,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.652931,
-            54.348069
+            54.040334,
+            13.689493
           ]
         },
         "properties": {
-          "name": "Katzow",
-          "place": "Katzow",
-          "url": "",
+          "number": 15,
+          "Title": "Katzow",
+          "Place": "Katzow",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 18
-        },
-        "id": 18
+          "Datum": "05.06.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 16,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.652931,
-            54.347931
+            48.227158,
+            11.683179
           ]
         },
         "properties": {
-          "name": "Ismaning",
-          "place": "Ismaning",
-          "url": "",
+          "number": 16,
+          "Title": "Ismaning",
+          "Place": "Ismaning",
+          "status": "Homezone",
+          "Url": "",
           "picture": "",
-          "id": 19
-        },
-        "id": 19
+          "Datum": "21.06.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 17,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.151771,
-            51.5046
+            51.535603,
+            12.137413
           ]
         },
         "properties": {
-          "name": "Landsberg",
-          "place": "Landsberg",
-          "url": "",
+          "number": 17,
+          "Title": "Landsberg",
+          "Place": "Landsberg",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 20
-        },
-        "id": 20
+          "Datum": "22.06.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 18,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.152029,
-            51.5046
+            49.41164,
+            8.70735
           ]
         },
         "properties": {
-          "name": "Heidelberg",
-          "place": "Heidelberg",
-          "url": "",
+          "number": 18,
+          "Title": "Heidelberg",
+          "Place": "Heidelberg",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 21
-        },
-        "id": 21
+          "Datum": "02.07.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 19,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.033909,
-            51.53695
+            48.7443,
+            11.436732
           ]
         },
         "properties": {
-          "name": "Ingolstadt",
-          "place": "Ingolstadt",
-          "url": "",
+          "number": 19,
+          "Title": "Ingolstadt",
+          "Place": "Ingolstadt",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 22
-        },
-        "id": 22
+          "Datum": "07.08.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 20,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.033651,
-            51.53695
+            49.448249,
+            11.075511
           ]
         },
         "properties": {
-          "name": "Nürnberg",
-          "place": "Nürnberg",
-          "url": "20180512_1.png",
+          "number": 20,
+          "Title": "Nürnberg",
+          "Place": "Nürnberg",
+          "status": "Ingress",
+          "Url": "20180512_1.png",
           "picture": "",
-          "id": 23
-        },
-        "id": 23
+          "Datum": "09.08.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 21,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.255812,
-            48.177066
+            48.177066,
+            11.255812
           ]
         },
         "properties": {
-          "name": "Fürstenfeldbruck",
-          "place": "Fürstenfeldbruck",
-          "url": "",
+          "number": 21,
+          "Title": "Fürstenfeldbruck",
+          "Place": "Fürstenfeldbruck",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 24
-        },
-        "id": 24
+          "Datum": "03.09.2016",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 22,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.835289,
-            48.27538
+            48.27538,
+            11.835289
           ]
         },
         "properties": {
-          "name": "Eching",
-          "place": "Eching",
-          "url": "",
+          "number": 22,
+          "Title": "Eching",
+          "Place": "Eching",
+          "status": "Homezone",
+          "Url": "",
           "picture": "",
-          "id": 25
-        },
-        "id": 25
+          "Datum": "06.01.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 24,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.55,
-            47.36667
+            48.401673,
+            10.877031
           ]
         },
         "properties": {
-          "name": "Zürich",
-          "place": "Zürich",
-          "url": "",
+          "number": 24,
+          "Title": "Augsburg",
+          "Place": "Augsburg",
+          "status": "Ingress",
+          "Url": "20180113_1.png",
           "picture": "",
-          "id": 26
-        },
-        "id": 26
+          "Datum": "24.03.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 25,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.877031,
-            48.401673
+            48.425856,
+            10.010424
           ]
         },
         "properties": {
-          "name": "Augsburg",
-          "place": "Augsburg",
-          "url": "20180113_1.png",
+          "number": 25,
+          "Title": "Ulm",
+          "Place": "Ulm",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 27
-        },
-        "id": 27
+          "Datum": "24.03.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 26,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.010424,
-            48.425856
+            49.872516,
+            8.629379
           ]
         },
         "properties": {
-          "name": "Ulm",
-          "place": "Ulm",
-          "url": "",
+          "number": 26,
+          "Title": "Darmstadt",
+          "Place": "Darmstadt",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 28
-        },
-        "id": 28
+          "Datum": "25.03.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 27,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.629379,
-            49.872516
+            50.103859,
+            8.662463
           ]
         },
         "properties": {
-          "name": "Darmstadt",
-          "place": "Darmstadt",
-          "url": "",
+          "number": 27,
+          "Title": "Frankfurt am Main",
+          "Place": "Frankfurt am Main",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 29
-        },
-        "id": 29
+          "Datum": "25.03.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 28,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.662463,
-            50.103859
+            51.519502,
+            7.459241
           ]
         },
         "properties": {
-          "name": "Frankfurt am Main",
-          "place": "Frankfurt am Main",
-          "url": "",
+          "number": 28,
+          "Title": "Dortmund",
+          "Place": "Dortmund",
+          "status": "Ingress/MD",
+          "Url": "20170325_1.png",
           "picture": "",
-          "id": 30
-        },
-        "id": 30
+          "Datum": "26.03.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 29,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            7.459241,
-            51.519502
+            52.530765,
+            13.451085
           ]
         },
         "properties": {
-          "name": "Dortmund",
-          "place": "Dortmund",
-          "url": "20170325_1.png",
+          "number": 29,
+          "Title": "Berlin",
+          "Place": "Berlin",
+          "status": "Ingress",
+          "Url": "20170410_1.png",
           "picture": "",
-          "id": 31
-        },
-        "id": 31
+          "Datum": "10.04.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 31,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.451085,
-            52.530765
+            49.479716,
+            8.469879
           ]
         },
         "properties": {
-          "name": "Berlin",
-          "place": "Berlin",
-          "url": "20170410_1.png",
+          "number": 31,
+          "Title": "Mannheim",
+          "Place": "Mannheim",
+          "status": "Ingress/MD",
+          "Url": "20170430_1.png",
           "picture": "",
-          "id": 32
-        },
-        "id": 32
+          "Datum": "30.04.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 32,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.329474,
-            52.503112
+            51.340902,
+            12.373875
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe Berlin",
-          "place": "Hard Rock Cafe Berlin",
-          "url": "",
+          "number": 32,
+          "Title": "Leipzig",
+          "Place": "Leipzig",
+          "status": "Ingress/MD",
+          "Url": "",
           "picture": "",
-          "id": 33
-        },
-        "id": 33
+          "Datum": "01.07.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 33,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.469879,
-            49.479716
+            49.012232,
+            12.099669
           ]
         },
         "properties": {
-          "name": "Mannheim",
-          "place": "Mannheim",
-          "url": "20170430_1.png",
+          "number": 33,
+          "Title": "Regensburg",
+          "Place": "Regensburg",
+          "status": "Ingress/MD",
+          "Url": "20170715_1.png",
           "picture": "",
-          "id": 34
-        },
-        "id": 34
+          "Datum": "15.07.2017",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 34,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            12.373875,
-            51.340902
+            47.859894,
+            12.126828
           ]
         },
         "properties": {
-          "name": "Leipzig",
-          "place": "Leipzig",
-          "url": "",
+          "number": 34,
+          "Title": "Rosenheim",
+          "Place": "Rosenheim",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 35
-        },
-        "id": 35
+          "Datum": "09.03.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 35,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            12.099669,
-            49.012232
+            47.81307,
+            13.045071
           ]
         },
         "properties": {
-          "name": "Regensburg",
-          "place": "Regensburg",
-          "url": "20170715_1.png",
+          "number": 35,
+          "Title": "Salzburg",
+          "Place": "Salzburg",
+          "status": "Ingress",
+          "Url": "20180330_1.png",
           "picture": "",
-          "id": 36
-        },
-        "id": 36
+          "Datum": "30.03.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 36,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            12.126828,
-            47.859894
+            47.267778,
+            11.390574
           ]
         },
         "properties": {
-          "name": "Rosenheim",
-          "place": "Rosenheim",
-          "url": "",
+          "number": 36,
+          "Title": "Innsbruck",
+          "Place": "Innsbruck",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 37
-        },
-        "id": 37
+          "Datum": "21.04.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            13.045071,
-            47.81307
-          ]
-        },
-        "properties": {
-          "name": "Salzburg",
-          "place": "Salzburg",
-          "url": "20180330_1.png",
-          "picture": "",
-          "id": 38
-        },
-        "id": 38
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            11.390574,
-            47.267778
-          ]
-        },
-        "properties": {
-          "name": "Innsbruck",
-          "place": "Innsbruck",
-          "url": "",
-          "picture": "",
-          "id": 39
-        },
-        "id": 39
-      },
-      {
-        "type": "Feature",
+        "id": 37,
         "geometry": {
           "type": "Point",
           "coordinates": [
@@ -719,2137 +760,1908 @@
           ]
         },
         "properties": {
-          "name": "Shenzhen",
-          "place": "Shenzhen",
-          "url": "",
+          "number": 37,
+          "Title": "Shenzhen",
+          "Place": "Shenzhen",
+          "status": "Arbeit",
+          "Url": "",
           "picture": "",
-          "id": 40
-        },
-        "id": 40
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            12.983008,
-            55.614216
-          ]
-        },
-        "properties": {
-          "name": "Malmö",
-          "place": "Malmö",
-          "url": "20180817_1.png",
-          "picture": "",
-          "id": 41
-        },
-        "id": 41
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            13.200302,
-            55.699278
-          ]
-        },
-        "properties": {
-          "name": "Lund",
-          "place": "Lund",
-          "url": "",
-          "picture": "",
-          "id": 42
-        },
-        "id": 42
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            12.564869,
-            55.672689
-          ]
-        },
-        "properties": {
-          "name": "København",
-          "place": "København",
-          "url": "20180815_1.png",
-          "picture": "",
-          "id": 43
-        },
-        "id": 43
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            13.819771,
-            55.432424
-          ]
-        },
-        "properties": {
-          "name": "Ystad",
-          "place": "Ystad",
-          "url": "",
-          "picture": "",
-          "id": 44
-        },
-        "id": 44
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            12.704512,
-            56.046343
-          ]
-        },
-        "properties": {
-          "name": "Helsingborg",
-          "place": "Helsingborg",
-          "url": "",
-          "picture": "",
-          "id": 45
-        },
-        "id": 45
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            13.156644,
-            55.372478
-          ]
-        },
-        "properties": {
-          "name": "Trelleborg",
-          "place": "Trelleborg",
-          "url": "",
-          "picture": "",
-          "id": 46
-        },
-        "id": 46
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.285629,
-            48.302064
-          ]
-        },
-        "properties": {
-          "name": "Linz",
-          "place": "Linz",
-          "url": "",
-          "picture": "",
-          "id": 47
-        },
-        "id": 47
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            2.736165,
-            39.551741
-          ]
-        },
-        "properties": {
-          "name": "Palma",
-          "place": "Palma",
-          "url": "20181019_1.png",
-          "picture": "",
-          "id": 48
-        },
-        "id": 48
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            2.924825,
-            39.599969
-          ]
-        },
-        "properties": {
-          "name": "Pina",
-          "place": "Pina",
-          "url": "20181018_1.png",
-          "picture": "",
-          "id": 49
-        },
-        "id": 49
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            13.25343,
-            52.73998
-          ]
-        },
-        "properties": {
-          "name": "Oranienburg",
-          "place": "Oranienburg",
-          "url": "20190501_1.png",
-          "picture": "",
-          "id": 50
-        },
-        "id": 50
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            13.25344,
-            52.73999
-          ]
-        },
-        "properties": {
-          "name": "Oranienburg",
-          "place": "Oranienburg",
-          "url": "20190501_2.png",
-          "picture": "",
-          "id": 51
-        },
-        "id": 51
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.999339,
-            53.121716
-          ]
-        },
-        "properties": {
-          "name": "Bydgoszcz",
-          "place": "Bydgoszcz",
-          "url": "",
-          "picture": "",
-          "id": 52
-        },
-        "id": 52
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            13.73832,
-            51.05089
-          ]
-        },
-        "properties": {
-          "name": "Dresden",
-          "place": "Dresden",
-          "url": "20191022_1.png",
-          "picture": "",
-          "id": 53
-        },
-        "id": 53
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.086667,
-            53.939722
-          ]
-        },
-        "properties": {
-          "name": "Drei Kaiserbäder",
-          "place": "Drei Kaiserbäder",
-          "url": "20200808_1.png",
-          "picture": "",
-          "id": 54
-        },
-        "id": 54
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            8.222507,
-            53.143656
-          ]
-        },
-        "properties": {
-          "name": "Oldenburg",
-          "place": "Oldenburg",
-          "url": "",
-          "picture": "",
-          "id": 55
-        },
-        "id": 55
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            9.926775,
-            51.536625
-          ]
-        },
-        "properties": {
-          "name": "Göttingen",
-          "place": "Göttingen",
-          "url": "",
-          "picture": "",
-          "id": 56
-        },
-        "id": 56
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.328287,
-            51.198624
-          ]
-        },
-        "properties": {
-          "name": "Bautzen",
-          "place": "Bautzen",
-          "url": "20210824_1.png",
-          "picture": "",
-          "id": 57
-        },
-        "id": 57
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.807913,
-            50.895038
-          ]
-        },
-        "properties": {
-          "name": "Zittau",
-          "place": "Zittau",
-          "url": "20210824_1.png",
-          "picture": "",
-          "id": 58
-        },
-        "id": 58
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.988436,
-            51.152832
-          ]
-        },
-        "properties": {
-          "name": "Görlitz",
-          "place": "Görlitz",
-          "url": "",
-          "picture": "",
-          "id": 59
-        },
-        "id": 59
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            11.407693,
-            53.634759
-          ]
-        },
-        "properties": {
-          "name": "Schwerin",
-          "place": "Schwerin",
-          "url": "",
-          "picture": "",
-          "id": 60
-        },
-        "id": 60
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            10.813466,
-            51.840705
-          ]
-        },
-        "properties": {
-          "name": "Wernigerode",
-          "place": "Wernigerode",
-          "url": "",
-          "picture": "",
-          "id": 61
-        },
-        "id": 61
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            10.648078,
-            51.771745
-          ]
-        },
-        "properties": {
-          "name": "Schierke",
-          "place": "Schierke",
-          "url": "",
-          "picture": "",
-          "id": 62
-        },
-        "id": 62
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            10.9671,
-            51.785974
-          ]
-        },
-        "properties": {
-          "name": "Blankenburg",
-          "place": "Blankenburg",
-          "url": "",
-          "picture": "",
-          "id": 63
-        },
-        "id": 63
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            11.02629,
-            51.732696
-          ]
-        },
-        "properties": {
-          "name": "Thale",
-          "place": "Thale",
-          "url": "20220822_1.png",
-          "picture": "",
-          "id": 64
-        },
-        "id": 64
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            6.954309,
-            50.948414
-          ]
-        },
-        "properties": {
-          "name": "Köln",
-          "place": "Köln",
-          "url": "",
-          "picture": "",
-          "id": 65
-        },
-        "id": 65
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            6.765517,
-            51.250359
-          ]
-        },
-        "properties": {
-          "name": "Düsseldorf",
-          "place": "Düsseldorf",
-          "url": "",
-          "picture": "",
-          "id": 66
-        },
-        "id": 66
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            7.147196,
-            51.258873
-          ]
-        },
-        "properties": {
-          "name": "Wuppertal",
-          "place": "Wuppertal",
-          "url": "20221101_1.png",
-          "picture": "",
-          "id": 67
-        },
-        "id": 67
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            7.122552,
-            50.702733
-          ]
-        },
-        "properties": {
-          "name": "Bonn",
-          "place": "Bonn",
-          "url": "",
-          "picture": "",
-          "id": 68
-        },
-        "id": 68
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.661534,
-            54.19255
-          ]
-        },
-        "properties": {
-          "name": "Kołobrzeg",
-          "place": "Kołobrzeg",
-          "url": "20230228_1.png",
-          "picture": "",
-          "id": 69
-        },
-        "id": 69
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            14.450507,
-            53.928287
-          ]
-        },
-        "properties": {
-          "name": "Miedzyzdrorie",
-          "place": "Miedzyzdrorie",
-          "url": "20230320_1.png",
-          "picture": "",
-          "id": 70
-        },
-        "id": 70
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            12.929261,
-            50.813524
-          ]
-        },
-        "properties": {
-          "name": "Chemnitz",
-          "place": "Chemnitz",
-          "url": "",
-          "picture": "",
-          "id": 71
-        },
-        "id": 71
+          "Datum": "25.07.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 38,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.249613,
-            53.55675
+            55.614216,
+            12.983008
           ]
         },
         "properties": {
-          "name": "Neubrandenburg",
-          "place": "Neubrandenburg",
-          "url": "",
+          "number": 38,
+          "Title": "Malmö",
+          "Place": "Malmö",
+          "status": "Vacation",
+          "Url": "20180817_1.png",
           "picture": "",
-          "id": 72
-        },
-        "id": 72
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            7.459296,
-            50.955324
-          ]
-        },
-        "properties": {
-          "name": "Wiehl",
-          "place": "Wiehl",
-          "url": "",
-          "picture": "",
-          "id": 73
-        },
-        "id": 73
+          "Datum": "12.08.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 39,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.727547,
-            50.995671
+            55.699278,
+            13.200302
           ]
         },
         "properties": {
-          "name": "Rotenburg an der Fulda",
-          "place": "Rotenburg an der Fulda",
-          "url": "",
+          "number": 39,
+          "Title": "Lund",
+          "Place": "Lund",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 74
-        },
-        "id": 74
+          "Datum": "13.08.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 40,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.596265,
-            53.559104
+            55.672689,
+            12.564869
           ]
         },
         "properties": {
-          "name": "Bremerhaven",
-          "place": "Bremerhaven",
-          "url": "20230804_2.png",
+          "number": 40,
+          "Title": "København",
+          "Place": "København",
+          "status": "Vacation",
+          "Url": "20180815_1.png",
           "picture": "",
-          "id": 75
-        },
-        "id": 75
+          "Datum": "15.08.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 41,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.574851,
-            53.542777
+            55.432424,
+            13.819771
           ]
         },
         "properties": {
-          "name": "Klimahaus - Sardegna",
-          "place": "Klimahaus - Sardegna",
-          "url": "20230804_1.png",
+          "number": 41,
+          "Title": "Ystad",
+          "Place": "Ystad",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 76
-        },
-        "id": 76
+          "Datum": "16.08.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 42,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.574851,
-            53.542777
+            56.046343,
+            12.704512
           ]
         },
         "properties": {
-          "name": "Klimahaus - Alaska",
-          "place": "Klimahaus - Alaska",
-          "url": "20230804_3.png",
+          "number": 42,
+          "Title": "Helsingborg",
+          "Place": "Helsingborg",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 77
-        },
-        "id": 77
+          "Datum": "17.08.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 43,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.801694,
-            53.079296
+            55.372478,
+            13.156644
           ]
         },
         "properties": {
-          "name": "Bremen",
-          "place": "Bremen",
-          "url": "20240606_1.png",
+          "number": 43,
+          "Title": "Trelleborg",
+          "Place": "Trelleborg",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 78
-        },
-        "id": 78
+          "Datum": "19.08.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 44,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.700066,
-            53.874677
+            48.302064,
+            14.285629
           ]
         },
         "properties": {
-          "name": "Cuxhaven",
-          "place": "Cuxhaven",
-          "url": "",
+          "number": 44,
+          "Title": "Linz",
+          "Place": "Linz",
+          "status": "Ingress/Anomalie",
+          "Url": "",
           "picture": "",
-          "id": 79
-        },
-        "id": 79
+          "Datum": "24.08.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 45,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            7.892139,
-            54.174118
+            39.551741,
+            2.736165
           ]
         },
         "properties": {
-          "name": "Helgoland",
-          "place": "Helgoland",
-          "url": "20230801_1.png",
+          "number": 45,
+          "Title": "Palma",
+          "Place": "Palma",
+          "status": "Ingress/Anomalie",
+          "Url": "20181019_1.png",
           "picture": "",
-          "id": 80
-        },
-        "id": 80
+          "Datum": "18.10.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 46,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            8.487357,
-            53.922096
+            39.599969,
+            2.924825
           ]
         },
         "properties": {
-          "name": "Insel Neuwerk",
-          "place": "Insel Neuwerk",
-          "url": "20230802_1.png",
+          "number": 46,
+          "Title": "Pina",
+          "Place": "Pina",
+          "status": "Ingress",
+          "Url": "20181018_1.png",
           "picture": "",
-          "id": 81
-        },
-        "id": 81
+          "Datum": "19.10.2018",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 47,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.686429,
-            53.865466
+            52.73998,
+            13.25343
           ]
         },
         "properties": {
-          "name": "Lübeck",
-          "place": "Lübeck",
-          "url": "20230805_1.png",
+          "number": 47,
+          "Title": "Oranienburg",
+          "Place": "Oranienburg",
+          "status": "Homezone",
+          "Url": "20190501_1.png",
           "picture": "",
-          "id": 82
-        },
-        "id": 82
+          "Datum": "01.05.2019",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 48,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.319965,
-            53.925389
+            52.73999,
+            13.25344
           ]
         },
         "properties": {
-          "name": "Jarmen",
-          "place": "Jarmen",
-          "url": "",
+          "number": 48,
+          "Title": "Oranienburg",
+          "Place": "Oranienburg",
+          "status": "Homezone",
+          "Url": "20190501_2.png",
           "picture": "",
-          "id": 83
-        },
-        "id": 83
+          "Datum": "01.05.2019",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 49,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.01571,
-            52.418607
+            53.121716,
+            17.999339
           ]
         },
         "properties": {
-          "name": "Potsdam",
-          "place": "Potsdam",
-          "url": "20230930_1.png",
+          "number": 49,
+          "Title": "Bydgoszcz",
+          "Place": "Bydgoszcz",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 84
-        },
-        "id": 84
+          "Datum": "14.09.2019",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 51,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            14.315398,
-            51.755623
+            53.939722,
+            14.086667
           ]
         },
         "properties": {
-          "name": "Cottbus",
-          "place": "Cottbus",
-          "url": "20231001_1.png",
+          "number": 51,
+          "Title": "Drei Kaiserbäder",
+          "Place": "Drei Kaiserbäder",
+          "status": "Freizeit",
+          "Url": "20200808_1.png",
           "picture": "",
-          "id": 85
-        },
-        "id": 85
+          "Datum": "10.08.2020",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 52,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            14.247078,
-            51.439544
+            53.143656,
+            8.222507
           ]
         },
         "properties": {
-          "name": "Hoyerswerda",
-          "place": "Hoyerswerda",
-          "url": "20231003_1.png",
+          "number": 52,
+          "Title": "Oldenburg",
+          "Place": "Oldenburg",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 86
-        },
-        "id": 86
+          "Datum": "14.08.2021",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 53,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -3.692341,
-            40.446617
+            51.536625,
+            9.926775
           ]
         },
         "properties": {
-          "name": "Madrid",
-          "place": "Madrid",
-          "url": "20231023_1.png",
+          "number": 53,
+          "Title": "Göttingen",
+          "Place": "Göttingen",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 87
-        },
-        "id": 87
+          "Datum": "17.08.2021",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 54,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -3.68983,
-            40.426052
+            51.198624,
+            14.328287
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe Madrid",
-          "place": "Hard Rock Cafe Madrid",
-          "url": "",
+          "number": 54,
+          "Title": "Bautzen",
+          "Place": "Bautzen",
+          "status": "Vacation",
+          "Url": "20210824_1.png",
           "picture": "",
-          "id": 88
-        },
-        "id": 88
+          "Datum": "23.08.2021",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 55,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            7.013883,
-            51.450938
+            50.895038,
+            14.807913
           ]
         },
         "properties": {
-          "name": "Essen",
-          "place": "Essen",
-          "url": "20231030_1.png",
+          "number": 55,
+          "Title": "Zittau",
+          "Place": "Zittau",
+          "status": "Vacation",
+          "Url": "20210824_1.png",
           "picture": "",
-          "id": 89
-        },
-        "id": 89
+          "Datum": "24.08.2021",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 56,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            6.94657,
-            51.521454
+            51.152832,
+            14.988436
           ]
         },
         "properties": {
-          "name": "Bottrop",
-          "place": "Bottrop",
-          "url": "",
+          "number": 56,
+          "Title": "Görlitz",
+          "Place": "Görlitz",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 90
-        },
-        "id": 90
+          "Datum": "26.10.2021",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 57,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            6.853365,
-            51.47432
+            53.634759,
+            11.407693
           ]
         },
         "properties": {
-          "name": "Oberhausen",
-          "place": "Oberhausen",
-          "url": "",
+          "number": 57,
+          "Title": "Schwerin",
+          "Place": "Schwerin",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 91
-        },
-        "id": 91
+          "Datum": "13.04.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 58,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            7.201576,
-            51.476918
+            51.840705,
+            10.813466
           ]
         },
         "properties": {
-          "name": "Bochum",
-          "place": "Bochum",
-          "url": "",
+          "number": 58,
+          "Title": "Wernigerode",
+          "Place": "Wernigerode",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 92
-        },
-        "id": 92
+          "Datum": "07.08.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 59,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            7.026292,
-            51.531402
+            51.771745,
+            10.648078
           ]
         },
         "properties": {
-          "name": "Gelsenkirchen",
-          "place": "Gelsenkirchen",
-          "url": "",
+          "number": 59,
+          "Title": "Schierke",
+          "Place": "Schierke",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 93
-        },
-        "id": 93
+          "Datum": "09.08.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 60,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            6.84945,
-            51.29685
+            51.785974,
+            10.9671
           ]
         },
         "properties": {
-          "name": "Ratingen",
-          "place": "Ratingen",
-          "url": "",
+          "number": 60,
+          "Title": "Blankenburg",
+          "Place": "Blankenburg",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 94
-        },
-        "id": 94
+          "Datum": "10.08.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 61,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.630803,
-            41.153369
+            51.732696,
+            11.02629
           ]
         },
         "properties": {
-          "name": "Porto",
-          "place": "Porto",
-          "url": "20240315_1.png",
+          "number": 61,
+          "Title": "Thale",
+          "Place": "Thale",
+          "status": "Vacation",
+          "Url": "20220822_1.png",
           "picture": "",
-          "id": 95
-        },
-        "id": 95
+          "Datum": "12.08.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 62,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.616215,
-            41.136869
+            50.948414,
+            6.954309
           ]
         },
         "properties": {
-          "name": "Vila Nova de Gaia",
-          "place": "Vila Nova de Gaia",
-          "url": "",
+          "number": 62,
+          "Title": "Köln",
+          "Place": "Köln",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 96
-        },
-        "id": 96
+          "Datum": "29.10.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 63,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.780387,
-            41.530679
+            51.250359,
+            6.765517
           ]
         },
         "properties": {
-          "name": "Esposende",
-          "place": "Esposende",
-          "url": "",
+          "number": 63,
+          "Title": "Düsseldorf",
+          "Place": "Düsseldorf",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 97
-        },
-        "id": 97
+          "Datum": "31.10.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 64,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.818634,
-            41.695824
+            51.258873,
+            7.147196
           ]
         },
         "properties": {
-          "name": "Viana do Castelo",
-          "place": "Viana do Castelo",
-          "url": "",
+          "number": 64,
+          "Title": "Wuppertal",
+          "Place": "Wuppertal",
+          "status": "Ingress",
+          "Url": "20221101_1.png",
           "picture": "",
-          "id": 98
-        },
-        "id": 98
+          "Datum": "01.11.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 65,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.837845,
-            41.873208
+            50.702733,
+            7.122552
           ]
         },
         "properties": {
-          "name": "Caminha",
-          "place": "Caminha",
-          "url": "",
+          "number": 65,
+          "Title": "Bonn",
+          "Place": "Bonn",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 99
-        },
-        "id": 99
+          "Datum": "02.11.2022",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 66,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.840817,
-            41.87346
+            54.19255,
+            15.661534
           ]
         },
         "properties": {
-          "name": "Oia",
-          "place": "Oia",
-          "url": "",
+          "number": 66,
+          "Title": "Kołobrzeg",
+          "Place": "Kołobrzeg",
+          "status": "Vacation",
+          "Url": "20230228_1.png",
           "picture": "",
-          "id": 100
-        },
-        "id": 100
+          "Datum": "27.02.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 68,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.853287,
-            42.118874
+            50.813524,
+            12.929261
           ]
         },
         "properties": {
-          "name": "Baiona",
-          "place": "Baiona",
-          "url": "",
+          "number": 68,
+          "Title": "Chemnitz",
+          "Place": "Chemnitz",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 101
-        },
-        "id": 101
+          "Datum": "10.03.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 69,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.800118,
-            42.170392
+            53.55675,
+            13.249613
           ]
         },
         "properties": {
-          "name": "Vigo",
-          "place": "Vigo",
-          "url": "",
+          "number": 69,
+          "Title": "Neubrandenburg",
+          "Place": "Neubrandenburg",
+          "status": "Homezone",
+          "Url": "",
           "picture": "",
-          "id": 102
-        },
-        "id": 102
+          "Datum": "01.05.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 70,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.673093,
-            42.266205
+            50.955324,
+            7.459296
           ]
         },
         "properties": {
-          "name": "Redondela",
-          "place": "Redondela",
-          "url": "",
+          "number": 70,
+          "Title": "Wiehl",
+          "Place": "Wiehl",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 103
-        },
-        "id": 103
+          "Datum": "14.07.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 71,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.633141,
-            42.41614
+            50.995671,
+            9.727547
           ]
         },
         "properties": {
-          "name": "Pontevedra",
-          "place": "Pontevedra",
-          "url": "",
+          "number": 71,
+          "Title": "Rotenburg an der Fulda",
+          "Place": "Rotenburg an der Fulda",
+          "status": "Ingress/Anomalie",
+          "Url": "",
           "picture": "",
-          "id": 104
-        },
-        "id": 104
+          "Datum": "15.07.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 72,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.649295,
-            42.605273
+            53.559104,
+            8.596265
           ]
         },
         "properties": {
-          "name": "Caldas de Reis",
-          "place": "Caldas de Reis",
-          "url": "",
+          "number": 72,
+          "Title": "Bremerhaven",
+          "Place": "Bremerhaven",
+          "status": "Vacation",
+          "Url": "20230804_2.png",
           "picture": "",
-          "id": 105
-        },
-        "id": 105
+          "Datum": "30.07.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 76,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.661532,
-            42.739175
+            53.874677,
+            8.700066
           ]
         },
         "properties": {
-          "name": "Padrón",
-          "place": "Padrón",
-          "url": "",
+          "number": 76,
+          "Title": "Cuxhaven",
+          "Place": "Cuxhaven",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 106
-        },
-        "id": 106
+          "Datum": "01.08.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 77,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.544395,
-            42.880688
+            54.174118,
+            7.892139
           ]
         },
         "properties": {
-          "name": "Santiago de Compostela",
-          "place": "Santiago de Compostela",
-          "url": "20240329_1.png",
+          "number": 77,
+          "Title": "Helgoland",
+          "Place": "Helgoland",
+          "status": "Vacation",
+          "Url": "20230801_1.png",
           "picture": "",
-          "id": 107
-        },
-        "id": 107
+          "Datum": "01.08.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 79,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -8.544395,
-            42.8806
+            53.865466,
+            10.686429
           ]
         },
         "properties": {
-          "name": "Santiago de Compostela",
-          "place": "Santiago de Compostela",
-          "url": "20240401_1.png",
+          "number": 79,
+          "Title": "Lübeck",
+          "Place": "Lübeck",
+          "status": "Vacation",
+          "Url": "20230805_1.png",
           "picture": "",
-          "id": 108
-        },
-        "id": 108
+          "Datum": "05.08.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 80,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -9.090562,
-            42.822419
+            53.925389,
+            13.319965
           ]
         },
         "properties": {
-          "name": "Carnota",
-          "place": "Carnota",
-          "url": "",
+          "number": 80,
+          "Title": "Jarmen",
+          "Place": "Jarmen",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 109
-        },
-        "id": 109
+          "Datum": "08.09.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 81,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -9.262566,
-            42.906471
+            52.418607,
+            13.01571
           ]
         },
         "properties": {
-          "name": "Fisterra",
-          "place": "Fisterra",
-          "url": "",
+          "number": 81,
+          "Title": "Potsdam",
+          "Place": "Potsdam",
+          "status": "Ingress/MD",
+          "Url": "20230930_1.png",
           "picture": "",
-          "id": 110
-        },
-        "id": 110
+          "Datum": "30.09.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 82,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -9.219645,
-            43.11198
+            51.755623,
+            14.315398
           ]
         },
         "properties": {
-          "name": "Muxía",
-          "place": "Muxía",
-          "url": "",
+          "number": 82,
+          "Title": "Cottbus",
+          "Place": "Cottbus",
+          "status": "Ingress",
+          "Url": "20231001_1.png",
           "picture": "",
-          "id": 111
-        },
-        "id": 111
+          "Datum": "01.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 83,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.261298,
-            47.43314
+            51.439544,
+            14.247078
           ]
         },
         "properties": {
-          "name": "Budapest",
-          "place": "Budapest",
-          "url": "",
+          "number": 83,
+          "Title": "Hoyerswerda",
+          "Place": "Hoyerswerda",
+          "status": "Ingress",
+          "Url": "20231003_1.png",
           "picture": "",
-          "id": 112
-        },
-        "id": 112
+          "Datum": "02.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 84,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.050889,
-            47.495984
+            40.446617,
+            -3.692341
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe Budapest",
-          "place": "Hard Rock Cafe Budapest",
-          "url": "",
+          "number": 84,
+          "Title": "Madrid",
+          "Place": "Madrid",
+          "status": "Ingress/Anomalie",
+          "Url": "20231023_1.png",
           "picture": "",
-          "id": 113
-        },
-        "id": 113
+          "Datum": "12.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 86,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.001923,
-            50.95418
+            51.450938,
+            7.013883
           ]
         },
         "properties": {
-          "name": "Erfurt",
-          "place": "Erfurt",
-          "url": "20240804_1.png",
+          "number": 86,
+          "Title": "Essen",
+          "Place": "Essen",
+          "status": "Ingress",
+          "Url": "20231030_1.png",
           "picture": "",
-          "id": 114
-        },
-        "id": 114
+          "Datum": "27.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 87,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.017936,
-            50.975147
+            51.521454,
+            6.94657
           ]
         },
         "properties": {
-          "name": "Schnatterinchen und Herr Fuchs",
-          "place": "Schnatterinchen und Herr Fuchs",
-          "url": "20240804_2.png",
+          "number": 87,
+          "Title": "Bottrop",
+          "Place": "Bottrop",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 115
-        },
-        "id": 115
+          "Datum": "28.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 88,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.03102,
-            50.97845
+            51.47432,
+            6.853365
           ]
         },
         "properties": {
-          "name": "Pittiplatsch",
-          "place": "Pittiplatsch",
-          "url": "20240804_3.png",
+          "number": 88,
+          "Title": "Oberhausen",
+          "Place": "Oberhausen",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 116
-        },
-        "id": 116
+          "Datum": "28.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 89,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.030975,
-            50.979694
+            51.476918,
+            7.201576
           ]
         },
         "properties": {
-          "name": "Schnatterinchen und Moppi",
-          "place": "Schnatterinchen und Moppi",
-          "url": "20240804_4.png",
+          "number": 89,
+          "Title": "Bochum",
+          "Place": "Bochum",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 117
-        },
-        "id": 117
+          "Datum": "28.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 90,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.031231,
-            50.978603
+            51.531402,
+            7.026292
           ]
         },
         "properties": {
-          "name": "Krämerbrücke",
-          "place": "Krämerbrücke",
-          "url": "20240804_5.png",
+          "number": 90,
+          "Title": "Gelsenkirchen",
+          "Place": "Gelsenkirchen",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 118
-        },
-        "id": 118
+          "Datum": "29.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 91,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.306402,
-            50.966154
+            51.29685,
+            6.84945
           ]
         },
         "properties": {
-          "name": "Wartburg",
-          "place": "Wartburg",
-          "url": "20240805_1.png",
+          "number": 91,
+          "Title": "Ratingen",
+          "Place": "Ratingen",
+          "status": "Ingress",
+          "Url": "",
           "picture": "",
-          "id": 119
-        },
-        "id": 119
+          "Datum": "30.10.2023",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 92,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.58539,
-            50.930393
+            41.153369,
+            -8.630803
           ]
         },
         "properties": {
-          "name": "Jena",
-          "place": "Jena",
-          "url": "",
+          "number": 92,
+          "Title": "Porto",
+          "Place": "Porto",
+          "status": "Ingress/Anomalie",
+          "Url": "20240315_1.png",
           "picture": "",
-          "id": 120
-        },
-        "id": 120
+          "Datum": "14.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 93,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            11.328694,
-            50.977551
+            41.136869,
+            -8.616215
           ]
         },
         "properties": {
-          "name": "Weimar",
-          "place": "Weimar",
-          "url": "20240808_1.png",
+          "number": 93,
+          "Title": "Vila Nova de Gaia",
+          "Place": "Vila Nova de Gaia",
+          "status": "Freizeit",
+          "Url": "",
           "picture": "",
-          "id": 121
-        },
-        "id": 121
+          "Datum": "17.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 94,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.709288,
-            50.946919
+            41.530679,
+            -8.780387
           ]
         },
         "properties": {
-          "name": "Gothar",
-          "place": "Gothar",
-          "url": "20240809_1.png",
+          "number": 94,
+          "Title": "Esposende",
+          "Place": "Esposende",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 122
-        },
-        "id": 122
+          "Datum": "18.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 95,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.386828,
-            39.463178
+            41.695824,
+            -8.818634
           ]
         },
         "properties": {
-          "name": "València",
-          "place": "València",
-          "url": "20241101_1.png",
+          "number": 95,
+          "Title": "Viana do Castelo",
+          "Place": "Viana do Castelo",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 123
-        },
-        "id": 123
+          "Datum": "19.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 97,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.377144,
-            39.46868
+            41.87346,
+            -8.840817
           ]
         },
         "properties": {
-          "name": "hard Rock Cafe Valencia",
-          "place": "hard Rock Cafe Valencia",
-          "url": "",
+          "number": 97,
+          "Title": "Oia",
+          "Place": "Oia",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 124
-        },
-        "id": 124
+          "Datum": "21.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 98,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            12.681693,
-            54.442829
+            42.118874,
+            -8.853287
           ]
         },
         "properties": {
-          "name": "Zingst",
-          "place": "Zingst",
-          "url": "20241203_1.png",
+          "number": 98,
+          "Title": "Baiona",
+          "Place": "Baiona",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 125
-        },
-        "id": 125
+          "Datum": "22.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 99,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            17.024048,
-            51.110706
+            42.170392,
+            -8.800118
           ]
         },
         "properties": {
-          "name": "Wrocław",
-          "place": "Wrocław",
-          "url": "20250526_1.png",
+          "number": 99,
+          "Title": "Vigo",
+          "Place": "Vigo",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 126
-        },
-        "id": 126
+          "Datum": "23.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 100,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            17.031672,
-            51.109422
+            42.266205,
+            -8.673093
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Breslau",
-          "place": "Hardrock Cafe Pin Breslau",
-          "url": "",
+          "number": 100,
+          "Title": "Redondela",
+          "Place": "Redondela",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 127
-        },
-        "id": 127
+          "Datum": "24.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 101,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            17.031672,
-            51.109422
+            42.41614,
+            -8.633141
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Breslau",
-          "place": "Hardrock Cafe Pin Breslau",
-          "url": "",
+          "number": 101,
+          "Title": "Pontevedra",
+          "Place": "Pontevedra",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 128
-        },
-        "id": 128
+          "Datum": "25.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 102,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            17.031672,
-            51.109422
+            42.605273,
+            -8.649295
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Breslau",
-          "place": "Hardrock Cafe Pin Breslau",
-          "url": "",
+          "number": 102,
+          "Title": "Caldas de Reis",
+          "Place": "Caldas de Reis",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 129
-        },
-        "id": 129
+          "Datum": "26.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 103,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.947493,
-            50.068395
+            42.739175,
+            -8.661532
           ]
         },
         "properties": {
-          "name": "Kraków",
-          "place": "Kraków",
-          "url": "20250527_1.png",
+          "number": 103,
+          "Title": "Padrón",
+          "Place": "Padrón",
+          "status": "Jakobsweg",
+          "Url": "",
           "picture": "",
-          "id": 130
-        },
-        "id": 130
+          "Datum": "27.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 104,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.93691,
-            50.06188
+            42.880688,
+            -8.544395
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Krakow",
-          "place": "Hardrock Cafe Pin Krakow",
-          "url": "",
+          "number": 104,
+          "Title": "Santiago de Compostela",
+          "Place": "Santiago de Compostela",
+          "status": "Jakobsweg",
+          "Url": "20240329_1.png",
           "picture": "",
-          "id": 131
-        },
-        "id": 131
+          "Datum": "28.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 105,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.93691,
-            50.06188
+            42.8806,
+            -8.544395
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Krakow",
-          "place": "Hardrock Cafe Pin Krakow",
-          "url": "",
+          "number": 105,
+          "Title": "Santiago de Compostela",
+          "Place": "Santiago de Compostela",
+          "status": "Jakobsweg",
+          "Url": "20240401_1.png",
           "picture": "",
-          "id": 132
-        },
-        "id": 132
+          "Datum": "28.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 106,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            19.93691,
-            50.06188
+            42.822419,
+            -9.090562
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Krakow",
-          "place": "Hardrock Cafe Pin Krakow",
-          "url": "",
+          "number": 106,
+          "Title": "Carnota",
+          "Place": "Carnota",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 133
-        },
-        "id": 133
+          "Datum": "30.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 107,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            21.00327,
-            52.22884
+            42.906471,
+            -9.262566
           ]
         },
         "properties": {
-          "name": "Warszawa",
-          "place": "Warszawa",
-          "url": "20250530_1.png",
+          "number": 107,
+          "Title": "Fisterra",
+          "Place": "Fisterra",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 134
-        },
-        "id": 134
+          "Datum": "30.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 108,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            21.012229,
-            52.229676
+            43.11198,
+            -9.219645
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Warschau",
-          "place": "Hardrock Cafe Pin Warschau",
-          "url": "",
+          "number": 108,
+          "Title": "Muxía",
+          "Place": "Muxía",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 135
-        },
-        "id": 135
+          "Datum": "30.03.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 109,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            21.012229,
-            52.229676
+            47.43314,
+            19.261298
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Warschau",
-          "place": "Hardrock Cafe Pin Warschau",
-          "url": "",
+          "number": 109,
+          "Title": "Budapest",
+          "Place": "Budapest",
+          "status": "Ingress/Anomalie",
+          "Url": "",
           "picture": "",
-          "id": 136
-        },
-        "id": 136
+          "Datum": "13.06.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 111,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            21.012229,
-            52.229676
+            50.95418,
+            11.001923
           ]
         },
         "properties": {
-          "name": "Hardrock Cafe Pin Warschau",
-          "place": "Hardrock Cafe Pin Warschau",
-          "url": "",
+          "number": 111,
+          "Title": "Erfurt",
+          "Place": "Erfurt",
+          "status": "Vacation",
+          "Url": "20240804_1.png",
           "picture": "",
-          "id": 137
-        },
-        "id": 137
+          "Datum": "03.08.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 116,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.614604,
-            53.000103
+            50.966154,
+            10.306402
           ]
         },
         "properties": {
-          "name": "Toruń",
-          "place": "Toruń",
-          "url": "20250602_1.png",
+          "number": 116,
+          "Title": "Wartburg",
+          "Place": "Wartburg",
+          "status": "Vacation",
+          "Url": "20240805_1.png",
           "picture": "",
-          "id": 138
-        },
-        "id": 138
+          "Datum": "06.08.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 117,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.644332,
-            54.356591
+            50.930393,
+            11.58539
           ]
         },
         "properties": {
-          "name": "Gdańsk",
-          "place": "Gdańsk",
-          "url": "20250604_1.png",
+          "number": 117,
+          "Title": "Jena",
+          "Place": "Jena",
+          "status": "Vacation",
+          "Url": "",
           "picture": "",
-          "id": 139
-        },
-        "id": 139
+          "Datum": "07.08.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Nein"
+        }
       },
       {
         "type": "Feature",
+        "id": 118,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.65,
-            54.348
+            50.977551,
+            11.328694
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe Danzig",
-          "place": "Hard Rock Cafe Danzig",
-          "url": "",
+          "number": 118,
+          "Title": "Weimar",
+          "Place": "Weimar",
+          "status": "Vacation",
+          "Url": "20240808_1.png",
           "picture": "",
-          "id": 140
-        },
-        "id": 140
+          "Datum": "08.08.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 120,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.66,
-            54.34
+            39.463178,
+            -0.386828
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe Danzig",
-          "place": "Hard Rock Cafe Danzig",
-          "url": "",
+          "number": 120,
+          "Title": "València",
+          "Place": "València",
+          "status": "Ingress/Anomalie",
+          "Url": "20241101_1.png",
           "picture": "",
-          "id": 141
-        },
-        "id": 141
+          "Datum": "30.10.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 122,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.64,
-            54.35
+            54.442829,
+            12.681693
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe Danzig",
-          "place": "Hard Rock Cafe Danzig",
-          "url": "",
+          "number": 122,
+          "Title": "Zingst",
+          "Place": "Zingst",
+          "status": "Freizeit",
+          "Url": "20241203_1.png",
           "picture": "",
-          "id": 142
-        },
-        "id": 142
+          "Datum": "03.12.2024",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 123,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.537007,
-            54.521052
+            51.110706,
+            17.024048
           ]
         },
         "properties": {
-          "name": "Gdynia",
-          "place": "Gdynia",
-          "url": "20250604_1.png",
+          "number": 123,
+          "Title": "Wrocław",
+          "Place": "Wrocław",
+          "status": "Vacation",
+          "Url": "20250526_1.png",
           "picture": "",
-          "id": 143
-        },
-        "id": 143
+          "Datum": "26.05.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 127,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            18.563637,
-            54.443187
+            50.068395,
+            19.947493
           ]
         },
         "properties": {
-          "name": "Sopot",
-          "place": "Sopot",
-          "url": "20250604_2.png",
+          "number": 127,
+          "Title": "Kraków",
+          "Place": "Kraków",
+          "status": "Vacation",
+          "Url": "20250527_1.png",
           "picture": "",
-          "id": 144
-        },
-        "id": 144
+          "Datum": "27.05.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 131,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            16.91243,
-            52.402749
+            52.22884,
+            21.00327
           ]
         },
         "properties": {
-          "name": "Poznań",
-          "place": "Poznań",
-          "url": "20250606_1.png",
+          "number": 131,
+          "Title": "Warszawa",
+          "Place": "Warszawa",
+          "status": "Vacation",
+          "Url": "20250530_1.png",
           "picture": "",
-          "id": 145
-        },
-        "id": 145
+          "Datum": "30.05.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 135,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.076048,
-            52.843112
+            53.000103,
+            18.614604
           ]
         },
         "properties": {
-          "name": "Hermannsburg",
-          "place": "Hermannsburg",
-          "url": "20250809_1.png",
+          "number": 135,
+          "Title": "Toruń",
+          "Place": "Toruń",
+          "status": "Vacation",
+          "Url": "20250602_1.png",
           "picture": "",
-          "id": 146
-        },
-        "id": 146
+          "Datum": "02.06.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 136,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.099485,
-            52.627
+            54.356591,
+            18.644332
           ]
         },
         "properties": {
-          "name": "Celle",
-          "place": "Celle",
-          "url": "20250807_3.png",
+          "number": 136,
+          "Title": "Gdańsk",
+          "Place": "Gdańsk",
+          "status": "Vacation",
+          "Url": "20250604_1.png",
           "picture": "",
-          "id": 147
-        },
-        "id": 147
+          "Datum": "03.06.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 140,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.553117,
-            52.969741
+            54.521052,
+            18.537007
           ]
         },
         "properties": {
-          "name": "Uelzen",
-          "place": "Uelzen",
-          "url": "20250805_1.png",
+          "number": 140,
+          "Title": "Gdynia",
+          "Place": "Gdynia",
+          "status": "Vacation",
+          "Url": "20250604_1.png",
           "picture": "",
-          "id": 148
-        },
-        "id": 148
+          "Datum": "04.06.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 141,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            10.406782,
-            53.246768
+            54.443187,
+            18.563637
           ]
         },
         "properties": {
-          "name": "Lüneburg",
-          "place": "Lüneburg",
-          "url": "20250806_1.png",
+          "number": 141,
+          "Title": "Sopot",
+          "Place": "Sopot",
+          "status": "Vacation",
+          "Url": "20250604_2.png",
           "picture": "",
-          "id": 149
-        },
-        "id": 149
+          "Datum": "04.06.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 142,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            9.841018,
-            52.991806
+            52.402749,
+            16.91243
           ]
         },
         "properties": {
-          "name": "Soltau",
-          "place": "Soltau",
-          "url": "20250807_1.png",
+          "number": 142,
+          "Title": "Poznań",
+          "Place": "Poznań",
+          "status": "Vacation",
+          "Url": "20250606_1.png",
           "picture": "",
-          "id": 150
-        },
-        "id": 150
+          "Datum": "06.06.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 143,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            13.465679,
-            48.57416
+            52.843112,
+            10.076048
           ]
         },
         "properties": {
-          "name": "Passau",
-          "place": "Passau",
-          "url": "20250822_1.png",
+          "number": 143,
+          "Title": "Hermannsburg",
+          "Place": "Hermannsburg",
+          "status": "Vacation",
+          "Url": "20250809_1.png",
           "picture": "",
-          "id": 151
-        },
-        "id": 151
+          "Datum": "03.08.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 144,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.137448,
-            52.194219
+            52.627,
+            10.099485
           ]
         },
         "properties": {
-          "name": "Cambridge",
-          "place": "Cambridge",
-          "url": "20250919_1.png",
+          "number": 144,
+          "Title": "Celle",
+          "Place": "Celle",
+          "status": "Vacation",
+          "Url": "20250807_3.png",
           "picture": "",
-          "id": 152
-        },
-        "id": 152
+          "Datum": "04.08.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 145,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.123598,
-            51.531603
+            52.969741,
+            10.553117
           ]
         },
         "properties": {
-          "name": "London",
-          "place": "London",
-          "url": "20250918_1.png",
+          "number": 145,
+          "Title": "Uelzen",
+          "Place": "Uelzen",
+          "status": "Vacation",
+          "Url": "20250805_1.png",
           "picture": "",
-          "id": 153
-        },
-        "id": 153
+          "Datum": "05.08.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 146,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.1519,
-            51.5046
+            53.246768,
+            10.406782
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe London Pin",
-          "place": "Hard Rock Cafe London Pin",
-          "url": "",
+          "number": 146,
+          "Title": "Lüneburg",
+          "Place": "Lüneburg",
+          "status": "Vacation",
+          "Url": "20250806_1.png",
           "picture": "",
-          "id": 154
-        },
-        "id": 154
+          "Datum": "06.08.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 147,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.1519,
-            51.5046
+            52.991806,
+            9.841018
           ]
         },
         "properties": {
-          "name": "Hard Rock Cafe London Drachen Pin",
-          "place": "Hard Rock Cafe London Drachen Pin",
-          "url": "",
+          "number": 147,
+          "Title": "Soltau",
+          "Place": "Soltau",
+          "status": "Vacation",
+          "Url": "20250807_1.png",
           "picture": "",
-          "id": 155
-        },
-        "id": 155
+          "Datum": "07.08.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 148,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -0.124023,
-            51.532249
+            48.57416,
+            13.465679
           ]
         },
         "properties": {
-          "name": "Kings Cross - Plattform 9 3/4",
-          "place": "Kings Cross - Plattform 9 3/4",
-          "url": "20250918_2.png",
+          "number": 148,
+          "Title": "Passau",
+          "Place": "Passau",
+          "status": "Freizeit",
+          "Url": "20250822_1.png",
           "picture": "",
-          "id": 156
-        },
-        "id": 156
+          "Datum": "22.08.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 149,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.03378,
-            51.53695
+            52.194219,
+            0.137448
           ]
         },
         "properties": {
-          "name": "Dr Who Fanshop London - Tardis",
-          "place": "Dr Who Fanshop London - Tardis",
-          "url": "20250918_3.png",
+          "number": 149,
+          "Title": "Cambridge",
+          "Place": "Cambridge",
+          "status": "Ingress/Anomalie",
+          "Url": "20250919_1.png",
           "picture": "",
-          "id": 157
-        },
-        "id": 157
+          "Datum": "18.09.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       },
       {
         "type": "Feature",
+        "id": 150,
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0.03378,
-            51.53695
+            51.531603,
+            -0.123598
           ]
         },
         "properties": {
-          "name": "Dr Who Fanshop London - Dr. Who",
-          "place": "Dr Who Fanshop London - Dr. Who",
-          "url": "20250918_4.png",
+          "number": 150,
+          "Title": "London",
+          "Place": "London",
+          "status": "Freizeit",
+          "Url": "20250918_1.png",
           "picture": "",
-          "id": 158
-        },
-        "id": 158
+          "Datum": "19.09.2025",
+          "Typ": "Karte",
+          "Karte vorhanden": "Ja"
+        }
       }
     ]
   }
