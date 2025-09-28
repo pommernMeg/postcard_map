@@ -7,13 +7,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.507,
-            13.74613
+            13.74613,
+            53.507
           ]
         },
         "properties": {
           "number": 1,
-          "Title": "... Tu Hus, is tu Hus",
+          "name": "... Tu Hus, is tu Hus",
           "Place": "Strasburg Uckermark ",
           "status": "Homezone",
           "Url": "19880411_1.png",
@@ -29,13 +29,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.50672,
-            13.74613
+            13.74613,
+            53.50672
           ]
         },
         "properties": {
           "number": 2,
-          "Title": "Strasburg Uckermark",
+          "name": "Strasburg Uckermark",
           "Place": "Strasburg Uckermark ",
           "status": "Homezone",
           "Url": "19880411_2.png",
@@ -51,13 +51,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.340612,
-            13.073318
+            13.073318,
+            54.340612
           ]
         },
         "properties": {
           "number": 3,
-          "Title": "Stralsund",
+          "name": "Stralsund",
           "Place": "Hansestadt Stralsund",
           "status": "Homezone",
           "Url": "20100901_1.png",
@@ -73,13 +73,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.13637,
-            12.08342
+            12.08342,
+            54.13637
           ]
         },
         "properties": {
           "number": 4,
-          "Title": "Rostock",
+          "name": "Rostock",
           "Place": "Hansestadt Rostock",
           "status": "Ingress",
           "Url": "",
@@ -95,13 +95,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.095094,
-            13.374606
+            13.374606,
+            54.095094
           ]
         },
         "properties": {
           "number": 5,
-          "Title": "Greifswald",
+          "name": "Greifswald",
           "Place": "Hansestadt Greifswald",
           "status": "Ingress",
           "Url": "",
@@ -117,13 +117,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.420277,
-            13.501637
+            13.501637,
+            54.420277
           ]
         },
         "properties": {
           "number": 6,
-          "Title": "Bergen auf Rügen",
+          "name": "Bergen auf Rügen",
           "Place": "Bergen auf Rügen",
           "status": "Ingress",
           "Url": "",
@@ -139,13 +139,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.06305,
-            14.267406
+            14.267406,
+            53.06305
           ]
         },
         "properties": {
           "number": 7,
-          "Title": "Schwedt/Oder",
+          "name": "Schwedt/Oder",
           "Place": "Schwedt/Oder",
           "status": "Ingress",
           "Url": "",
@@ -161,13 +161,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.376538,
-            9.739697
+            9.739697,
+            52.376538
           ]
         },
         "properties": {
           "number": 8,
-          "Title": "Hannover",
+          "name": "Hannover",
           "Place": "Hannover",
           "status": "Ingress/Anomalie",
           "Url": "",
@@ -183,13 +183,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.552968,
-            10.006924
+            10.006924,
+            53.552968
           ]
         },
         "properties": {
           "number": 9,
-          "Title": "Hamburg",
+          "name": "Hamburg",
           "Place": "Hamburg",
           "status": "Ingress/Anomalie",
           "Url": "",
@@ -205,13 +205,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.394002,
-            12.624108
+            12.624108,
+            53.394002
           ]
         },
         "properties": {
           "number": 10,
-          "Title": "Röbel/Müritz",
+          "name": "Röbel/Müritz",
           "Place": "Röbel/Müritz",
           "status": "Freizeit",
           "Url": "20150703_1.png",
@@ -227,13 +227,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.418763,
-            14.550644
+            14.550644,
+            53.418763
           ]
         },
         "properties": {
           "number": 11,
-          "Title": "Szczecin",
+          "name": "Szczecin",
           "Place": "Szczecin",
           "status": "Ingress",
           "Url": "",
@@ -249,13 +249,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            49.801598,
-            9.935751
+            9.935751,
+            49.801598
           ]
         },
         "properties": {
           "number": 12,
-          "Title": "Würzburg",
+          "name": "Würzburg",
           "Place": "Würzburg",
           "status": "Freizeit",
           "Url": "",
@@ -271,13 +271,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.162174,
-            11.579551
+            11.579551,
+            48.162174
           ]
         },
         "properties": {
           "number": 13,
-          "Title": "München",
+          "name": "München",
           "Place": "München",
           "status": "Ingress",
           "Url": "20160701.png",
@@ -293,13 +293,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.13778,
-            11.57944
+            11.57944,
+            48.13778
           ]
         },
         "properties": {
           "number": 14,
-          "Title": "Hard Rock Cafe München",
+          "name": "Hard Rock Cafe München",
           "Place": "Hard Rock Cafe München",
           "status": "Freizeit",
           "Url": "",
@@ -315,13 +315,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.040334,
-            13.689493
+            13.689493,
+            54.040334
           ]
         },
         "properties": {
           "number": 15,
-          "Title": "Katzow",
+          "name": "Katzow",
           "Place": "Katzow",
           "status": "Ingress",
           "Url": "",
@@ -337,13 +337,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.227158,
-            11.683179
+            11.683179,
+            48.227158
           ]
         },
         "properties": {
           "number": 16,
-          "Title": "Ismaning",
+          "name": "Ismaning",
           "Place": "Ismaning",
           "status": "Homezone",
           "Url": "",
@@ -359,13 +359,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.535603,
-            12.137413
+            12.137413,
+            51.535603
           ]
         },
         "properties": {
           "number": 17,
-          "Title": "Landsberg",
+          "name": "Landsberg",
           "Place": "Landsberg",
           "status": "Ingress",
           "Url": "",
@@ -381,13 +381,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            49.41164,
-            8.70735
+            8.70735,
+            49.41164
           ]
         },
         "properties": {
           "number": 18,
-          "Title": "Heidelberg",
+          "name": "Heidelberg",
           "Place": "Heidelberg",
           "status": "Ingress",
           "Url": "",
@@ -403,13 +403,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.7443,
-            11.436732
+            11.436732,
+            48.7443
           ]
         },
         "properties": {
           "number": 19,
-          "Title": "Ingolstadt",
+          "name": "Ingolstadt",
           "Place": "Ingolstadt",
           "status": "Ingress",
           "Url": "",
@@ -425,13 +425,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            49.448249,
-            11.075511
+            11.075511,
+            49.448249
           ]
         },
         "properties": {
           "number": 20,
-          "Title": "Nürnberg",
+          "name": "Nürnberg",
           "Place": "Nürnberg",
           "status": "Ingress",
           "Url": "20180512_1.png",
@@ -447,13 +447,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.177066,
-            11.255812
+            11.255812,
+            48.177066
           ]
         },
         "properties": {
           "number": 21,
-          "Title": "Fürstenfeldbruck",
+          "name": "Fürstenfeldbruck",
           "Place": "Fürstenfeldbruck",
           "status": "Ingress",
           "Url": "",
@@ -469,13 +469,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.27538,
-            11.835289
+            11.835289,
+            48.27538
           ]
         },
         "properties": {
           "number": 22,
-          "Title": "Eching",
+          "name": "Eching",
           "Place": "Eching",
           "status": "Homezone",
           "Url": "",
@@ -491,13 +491,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.401673,
-            10.877031
+            10.877031,
+            48.401673
           ]
         },
         "properties": {
           "number": 24,
-          "Title": "Augsburg",
+          "name": "Augsburg",
           "Place": "Augsburg",
           "status": "Ingress",
           "Url": "20180113_1.png",
@@ -513,13 +513,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.425856,
-            10.010424
+            10.010424,
+            48.425856
           ]
         },
         "properties": {
           "number": 25,
-          "Title": "Ulm",
+          "name": "Ulm",
           "Place": "Ulm",
           "status": "Freizeit",
           "Url": "",
@@ -535,13 +535,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            49.872516,
-            8.629379
+            8.629379,
+            49.872516
           ]
         },
         "properties": {
           "number": 26,
-          "Title": "Darmstadt",
+          "name": "Darmstadt",
           "Place": "Darmstadt",
           "status": "Freizeit",
           "Url": "",
@@ -557,13 +557,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.103859,
-            8.662463
+            8.662463,
+            50.103859
           ]
         },
         "properties": {
           "number": 27,
-          "Title": "Frankfurt am Main",
+          "name": "Frankfurt am Main",
           "Place": "Frankfurt am Main",
           "status": "Freizeit",
           "Url": "",
@@ -579,13 +579,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.519502,
-            7.459241
+            7.459241,
+            51.519502
           ]
         },
         "properties": {
           "number": 28,
-          "Title": "Dortmund",
+          "name": "Dortmund",
           "Place": "Dortmund",
           "status": "Ingress/MD",
           "Url": "20170325_1.png",
@@ -601,13 +601,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.530765,
-            13.451085
+            13.451085,
+            52.530765
           ]
         },
         "properties": {
           "number": 29,
-          "Title": "Berlin",
+          "name": "Berlin",
           "Place": "Berlin",
           "status": "Ingress",
           "Url": "20170410_1.png",
@@ -623,13 +623,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            49.479716,
-            8.469879
+            8.469879,
+            49.479716
           ]
         },
         "properties": {
           "number": 31,
-          "Title": "Mannheim",
+          "name": "Mannheim",
           "Place": "Mannheim",
           "status": "Ingress/MD",
           "Url": "20170430_1.png",
@@ -645,13 +645,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.340902,
-            12.373875
+            12.373875,
+            51.340902
           ]
         },
         "properties": {
           "number": 32,
-          "Title": "Leipzig",
+          "name": "Leipzig",
           "Place": "Leipzig",
           "status": "Ingress/MD",
           "Url": "",
@@ -667,13 +667,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            49.012232,
-            12.099669
+            12.099669,
+            49.012232
           ]
         },
         "properties": {
           "number": 33,
-          "Title": "Regensburg",
+          "name": "Regensburg",
           "Place": "Regensburg",
           "status": "Ingress/MD",
           "Url": "20170715_1.png",
@@ -689,13 +689,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            47.859894,
-            12.126828
+            12.126828,
+            47.859894
           ]
         },
         "properties": {
           "number": 34,
-          "Title": "Rosenheim",
+          "name": "Rosenheim",
           "Place": "Rosenheim",
           "status": "Ingress",
           "Url": "",
@@ -711,13 +711,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            47.81307,
-            13.045071
+            13.045071,
+            47.81307
           ]
         },
         "properties": {
           "number": 35,
-          "Title": "Salzburg",
+          "name": "Salzburg",
           "Place": "Salzburg",
           "status": "Ingress",
           "Url": "20180330_1.png",
@@ -733,13 +733,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            47.267778,
-            11.390574
+            11.390574,
+            47.267778
           ]
         },
         "properties": {
           "number": 36,
-          "Title": "Innsbruck",
+          "name": "Innsbruck",
           "Place": "Innsbruck",
           "status": "Ingress",
           "Url": "",
@@ -755,13 +755,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            113.93457,
-            22.521961
+            22.521961,
+            113.93457
           ]
         },
         "properties": {
           "number": 37,
-          "Title": "Shenzhen",
+          "name": "Shenzhen",
           "Place": "Shenzhen",
           "status": "Arbeit",
           "Url": "",
@@ -777,13 +777,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            55.614216,
-            12.983008
+            12.983008,
+            55.614216
           ]
         },
         "properties": {
           "number": 38,
-          "Title": "Malmö",
+          "name": "Malmö",
           "Place": "Malmö",
           "status": "Vacation",
           "Url": "20180817_1.png",
@@ -799,13 +799,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            55.699278,
-            13.200302
+            13.200302,
+            55.699278
           ]
         },
         "properties": {
           "number": 39,
-          "Title": "Lund",
+          "name": "Lund",
           "Place": "Lund",
           "status": "Vacation",
           "Url": "",
@@ -821,13 +821,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            55.672689,
-            12.564869
+            12.564869,
+            55.672689
           ]
         },
         "properties": {
           "number": 40,
-          "Title": "København",
+          "name": "København",
           "Place": "København",
           "status": "Vacation",
           "Url": "20180815_1.png",
@@ -843,13 +843,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            55.432424,
-            13.819771
+            13.819771,
+            55.432424
           ]
         },
         "properties": {
           "number": 41,
-          "Title": "Ystad",
+          "name": "Ystad",
           "Place": "Ystad",
           "status": "Vacation",
           "Url": "",
@@ -865,13 +865,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            56.046343,
-            12.704512
+            12.704512,
+            56.046343
           ]
         },
         "properties": {
           "number": 42,
-          "Title": "Helsingborg",
+          "name": "Helsingborg",
           "Place": "Helsingborg",
           "status": "Vacation",
           "Url": "",
@@ -887,13 +887,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            55.372478,
-            13.156644
+            13.156644,
+            55.372478
           ]
         },
         "properties": {
           "number": 43,
-          "Title": "Trelleborg",
+          "name": "Trelleborg",
           "Place": "Trelleborg",
           "status": "Vacation",
           "Url": "",
@@ -909,13 +909,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.302064,
-            14.285629
+            14.285629,
+            48.302064
           ]
         },
         "properties": {
           "number": 44,
-          "Title": "Linz",
+          "name": "Linz",
           "Place": "Linz",
           "status": "Ingress/Anomalie",
           "Url": "",
@@ -931,13 +931,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            39.551741,
-            2.736165
+            2.736165,
+            39.551741
           ]
         },
         "properties": {
           "number": 45,
-          "Title": "Palma",
+          "name": "Palma",
           "Place": "Palma",
           "status": "Ingress/Anomalie",
           "Url": "20181019_1.png",
@@ -953,13 +953,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            39.599969,
-            2.924825
+            2.924825,
+            39.599969
           ]
         },
         "properties": {
           "number": 46,
-          "Title": "Pina",
+          "name": "Pina",
           "Place": "Pina",
           "status": "Ingress",
           "Url": "20181018_1.png",
@@ -975,13 +975,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.73998,
-            13.25343
+            13.25343,
+            52.73998
           ]
         },
         "properties": {
           "number": 47,
-          "Title": "Oranienburg",
+          "name": "Oranienburg",
           "Place": "Oranienburg",
           "status": "Homezone",
           "Url": "20190501_1.png",
@@ -997,13 +997,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.73999,
-            13.25344
+            13.25344,
+            52.73999
           ]
         },
         "properties": {
           "number": 48,
-          "Title": "Oranienburg",
+          "name": "Oranienburg",
           "Place": "Oranienburg",
           "status": "Homezone",
           "Url": "20190501_2.png",
@@ -1019,13 +1019,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.121716,
-            17.999339
+            17.999339,
+            53.121716
           ]
         },
         "properties": {
           "number": 49,
-          "Title": "Bydgoszcz",
+          "name": "Bydgoszcz",
           "Place": "Bydgoszcz",
           "status": "Ingress",
           "Url": "",
@@ -1041,13 +1041,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.939722,
-            14.086667
+            14.086667,
+            53.939722
           ]
         },
         "properties": {
           "number": 51,
-          "Title": "Drei Kaiserbäder",
+          "name": "Drei Kaiserbäder",
           "Place": "Drei Kaiserbäder",
           "status": "Freizeit",
           "Url": "20200808_1.png",
@@ -1063,13 +1063,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.143656,
-            8.222507
+            8.222507,
+            53.143656
           ]
         },
         "properties": {
           "number": 52,
-          "Title": "Oldenburg",
+          "name": "Oldenburg",
           "Place": "Oldenburg",
           "status": "Vacation",
           "Url": "",
@@ -1085,13 +1085,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.536625,
-            9.926775
+            9.926775,
+            51.536625
           ]
         },
         "properties": {
           "number": 53,
-          "Title": "Göttingen",
+          "name": "Göttingen",
           "Place": "Göttingen",
           "status": "Vacation",
           "Url": "",
@@ -1107,13 +1107,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.198624,
-            14.328287
+            14.328287,
+            51.198624
           ]
         },
         "properties": {
           "number": 54,
-          "Title": "Bautzen",
+          "name": "Bautzen",
           "Place": "Bautzen",
           "status": "Vacation",
           "Url": "20210824_1.png",
@@ -1129,13 +1129,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.895038,
-            14.807913
+            14.807913,
+            50.895038
           ]
         },
         "properties": {
           "number": 55,
-          "Title": "Zittau",
+          "name": "Zittau",
           "Place": "Zittau",
           "status": "Vacation",
           "Url": "20210824_1.png",
@@ -1151,13 +1151,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.152832,
-            14.988436
+            14.988436,
+            51.152832
           ]
         },
         "properties": {
           "number": 56,
-          "Title": "Görlitz",
+          "name": "Görlitz",
           "Place": "Görlitz",
           "status": "Vacation",
           "Url": "",
@@ -1173,13 +1173,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.634759,
-            11.407693
+            11.407693,
+            53.634759
           ]
         },
         "properties": {
           "number": 57,
-          "Title": "Schwerin",
+          "name": "Schwerin",
           "Place": "Schwerin",
           "status": "Ingress",
           "Url": "",
@@ -1195,13 +1195,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.840705,
-            10.813466
+            10.813466,
+            51.840705
           ]
         },
         "properties": {
           "number": 58,
-          "Title": "Wernigerode",
+          "name": "Wernigerode",
           "Place": "Wernigerode",
           "status": "Vacation",
           "Url": "",
@@ -1217,13 +1217,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.771745,
-            10.648078
+            10.648078,
+            51.771745
           ]
         },
         "properties": {
           "number": 59,
-          "Title": "Schierke",
+          "name": "Schierke",
           "Place": "Schierke",
           "status": "Vacation",
           "Url": "",
@@ -1239,13 +1239,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.785974,
-            10.9671
+            10.9671,
+            51.785974
           ]
         },
         "properties": {
           "number": 60,
-          "Title": "Blankenburg",
+          "name": "Blankenburg",
           "Place": "Blankenburg",
           "status": "Vacation",
           "Url": "",
@@ -1261,13 +1261,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.732696,
-            11.02629
+            11.02629,
+            51.732696
           ]
         },
         "properties": {
           "number": 61,
-          "Title": "Thale",
+          "name": "Thale",
           "Place": "Thale",
           "status": "Vacation",
           "Url": "20220822_1.png",
@@ -1283,13 +1283,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.948414,
-            6.954309
+            6.954309,
+            50.948414
           ]
         },
         "properties": {
           "number": 62,
-          "Title": "Köln",
+          "name": "Köln",
           "Place": "Köln",
           "status": "Ingress",
           "Url": "",
@@ -1305,13 +1305,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.250359,
-            6.765517
+            6.765517,
+            51.250359
           ]
         },
         "properties": {
           "number": 63,
-          "Title": "Düsseldorf",
+          "name": "Düsseldorf",
           "Place": "Düsseldorf",
           "status": "Ingress",
           "Url": "",
@@ -1327,13 +1327,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.258873,
-            7.147196
+            7.147196,
+            51.258873
           ]
         },
         "properties": {
           "number": 64,
-          "Title": "Wuppertal",
+          "name": "Wuppertal",
           "Place": "Wuppertal",
           "status": "Ingress",
           "Url": "20221101_1.png",
@@ -1349,13 +1349,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.702733,
-            7.122552
+            7.122552,
+            50.702733
           ]
         },
         "properties": {
           "number": 65,
-          "Title": "Bonn",
+          "name": "Bonn",
           "Place": "Bonn",
           "status": "Ingress",
           "Url": "",
@@ -1371,13 +1371,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.19255,
-            15.661534
+            15.661534,
+            54.19255
           ]
         },
         "properties": {
           "number": 66,
-          "Title": "Kołobrzeg",
+          "name": "Kołobrzeg",
           "Place": "Kołobrzeg",
           "status": "Vacation",
           "Url": "20230228_1.png",
@@ -1393,13 +1393,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.813524,
-            12.929261
+            12.929261,
+            50.813524
           ]
         },
         "properties": {
           "number": 68,
-          "Title": "Chemnitz",
+          "name": "Chemnitz",
           "Place": "Chemnitz",
           "status": "Freizeit",
           "Url": "",
@@ -1415,13 +1415,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.55675,
-            13.249613
+            13.249613,
+            53.55675
           ]
         },
         "properties": {
           "number": 69,
-          "Title": "Neubrandenburg",
+          "name": "Neubrandenburg",
           "Place": "Neubrandenburg",
           "status": "Homezone",
           "Url": "",
@@ -1437,13 +1437,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.955324,
-            7.459296
+            7.459296,
+            50.955324
           ]
         },
         "properties": {
           "number": 70,
-          "Title": "Wiehl",
+          "name": "Wiehl",
           "Place": "Wiehl",
           "status": "Vacation",
           "Url": "",
@@ -1459,13 +1459,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.995671,
-            9.727547
+            9.727547,
+            50.995671
           ]
         },
         "properties": {
           "number": 71,
-          "Title": "Rotenburg an der Fulda",
+          "name": "Rotenburg an der Fulda",
           "Place": "Rotenburg an der Fulda",
           "status": "Ingress/Anomalie",
           "Url": "",
@@ -1481,13 +1481,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.559104,
-            8.596265
+            8.596265,
+            53.559104
           ]
         },
         "properties": {
           "number": 72,
-          "Title": "Bremerhaven",
+          "name": "Bremerhaven",
           "Place": "Bremerhaven",
           "status": "Vacation",
           "Url": "20230804_2.png",
@@ -1503,13 +1503,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.874677,
-            8.700066
+            8.700066,
+            53.874677
           ]
         },
         "properties": {
           "number": 76,
-          "Title": "Cuxhaven",
+          "name": "Cuxhaven",
           "Place": "Cuxhaven",
           "status": "Vacation",
           "Url": "",
@@ -1525,13 +1525,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.174118,
-            7.892139
+            7.892139,
+            54.174118
           ]
         },
         "properties": {
           "number": 77,
-          "Title": "Helgoland",
+          "name": "Helgoland",
           "Place": "Helgoland",
           "status": "Vacation",
           "Url": "20230801_1.png",
@@ -1547,13 +1547,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.865466,
-            10.686429
+            10.686429,
+            53.865466
           ]
         },
         "properties": {
           "number": 79,
-          "Title": "Lübeck",
+          "name": "Lübeck",
           "Place": "Lübeck",
           "status": "Vacation",
           "Url": "20230805_1.png",
@@ -1569,13 +1569,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.925389,
-            13.319965
+            13.319965,
+            53.925389
           ]
         },
         "properties": {
           "number": 80,
-          "Title": "Jarmen",
+          "name": "Jarmen",
           "Place": "Jarmen",
           "status": "Freizeit",
           "Url": "",
@@ -1591,13 +1591,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.418607,
-            13.01571
+            13.01571,
+            52.418607
           ]
         },
         "properties": {
           "number": 81,
-          "Title": "Potsdam",
+          "name": "Potsdam",
           "Place": "Potsdam",
           "status": "Ingress/MD",
           "Url": "20230930_1.png",
@@ -1613,13 +1613,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.755623,
-            14.315398
+            14.315398,
+            51.755623
           ]
         },
         "properties": {
           "number": 82,
-          "Title": "Cottbus",
+          "name": "Cottbus",
           "Place": "Cottbus",
           "status": "Ingress",
           "Url": "20231001_1.png",
@@ -1635,13 +1635,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.439544,
-            14.247078
+            14.247078,
+            51.439544
           ]
         },
         "properties": {
           "number": 83,
-          "Title": "Hoyerswerda",
+          "name": "Hoyerswerda",
           "Place": "Hoyerswerda",
           "status": "Ingress",
           "Url": "20231003_1.png",
@@ -1657,13 +1657,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            40.446617,
-            -3.692341
+            -3.692341,
+            40.446617
           ]
         },
         "properties": {
           "number": 84,
-          "Title": "Madrid",
+          "name": "Madrid",
           "Place": "Madrid",
           "status": "Ingress/Anomalie",
           "Url": "20231023_1.png",
@@ -1679,13 +1679,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.450938,
-            7.013883
+            7.013883,
+            51.450938
           ]
         },
         "properties": {
           "number": 86,
-          "Title": "Essen",
+          "name": "Essen",
           "Place": "Essen",
           "status": "Ingress",
           "Url": "20231030_1.png",
@@ -1701,13 +1701,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.521454,
-            6.94657
+            6.94657,
+            51.521454
           ]
         },
         "properties": {
           "number": 87,
-          "Title": "Bottrop",
+          "name": "Bottrop",
           "Place": "Bottrop",
           "status": "Ingress",
           "Url": "",
@@ -1723,13 +1723,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.47432,
-            6.853365
+            6.853365,
+            51.47432
           ]
         },
         "properties": {
           "number": 88,
-          "Title": "Oberhausen",
+          "name": "Oberhausen",
           "Place": "Oberhausen",
           "status": "Ingress",
           "Url": "",
@@ -1745,13 +1745,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.476918,
-            7.201576
+            7.201576,
+            51.476918
           ]
         },
         "properties": {
           "number": 89,
-          "Title": "Bochum",
+          "name": "Bochum",
           "Place": "Bochum",
           "status": "Ingress",
           "Url": "",
@@ -1767,13 +1767,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.531402,
-            7.026292
+            7.026292,
+            51.531402
           ]
         },
         "properties": {
           "number": 90,
-          "Title": "Gelsenkirchen",
+          "name": "Gelsenkirchen",
           "Place": "Gelsenkirchen",
           "status": "Freizeit",
           "Url": "",
@@ -1789,13 +1789,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.29685,
-            6.84945
+            6.84945,
+            51.29685
           ]
         },
         "properties": {
           "number": 91,
-          "Title": "Ratingen",
+          "name": "Ratingen",
           "Place": "Ratingen",
           "status": "Ingress",
           "Url": "",
@@ -1811,13 +1811,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            41.153369,
-            -8.630803
+            -8.630803,
+            41.153369
           ]
         },
         "properties": {
           "number": 92,
-          "Title": "Porto",
+          "name": "Porto",
           "Place": "Porto",
           "status": "Ingress/Anomalie",
           "Url": "20240315_1.png",
@@ -1833,13 +1833,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            41.136869,
-            -8.616215
+            -8.616215,
+            41.136869
           ]
         },
         "properties": {
           "number": 93,
-          "Title": "Vila Nova de Gaia",
+          "name": "Vila Nova de Gaia",
           "Place": "Vila Nova de Gaia",
           "status": "Freizeit",
           "Url": "",
@@ -1855,13 +1855,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            41.530679,
-            -8.780387
+            -8.780387,
+            41.530679
           ]
         },
         "properties": {
           "number": 94,
-          "Title": "Esposende",
+          "name": "Esposende",
           "Place": "Esposende",
           "status": "Jakobsweg",
           "Url": "",
@@ -1877,13 +1877,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            41.695824,
-            -8.818634
+            -8.818634,
+            41.695824
           ]
         },
         "properties": {
           "number": 95,
-          "Title": "Viana do Castelo",
+          "name": "Viana do Castelo",
           "Place": "Viana do Castelo",
           "status": "Jakobsweg",
           "Url": "",
@@ -1899,13 +1899,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            41.87346,
-            -8.840817
+            -8.840817,
+            41.87346
           ]
         },
         "properties": {
           "number": 97,
-          "Title": "Oia",
+          "name": "Oia",
           "Place": "Oia",
           "status": "Jakobsweg",
           "Url": "",
@@ -1921,13 +1921,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.118874,
-            -8.853287
+            -8.853287,
+            42.118874
           ]
         },
         "properties": {
           "number": 98,
-          "Title": "Baiona",
+          "name": "Baiona",
           "Place": "Baiona",
           "status": "Jakobsweg",
           "Url": "",
@@ -1943,13 +1943,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.170392,
-            -8.800118
+            -8.800118,
+            42.170392
           ]
         },
         "properties": {
           "number": 99,
-          "Title": "Vigo",
+          "name": "Vigo",
           "Place": "Vigo",
           "status": "Jakobsweg",
           "Url": "",
@@ -1965,13 +1965,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.266205,
-            -8.673093
+            -8.673093,
+            42.266205
           ]
         },
         "properties": {
           "number": 100,
-          "Title": "Redondela",
+          "name": "Redondela",
           "Place": "Redondela",
           "status": "Jakobsweg",
           "Url": "",
@@ -1987,13 +1987,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.41614,
-            -8.633141
+            -8.633141,
+            42.41614
           ]
         },
         "properties": {
           "number": 101,
-          "Title": "Pontevedra",
+          "name": "Pontevedra",
           "Place": "Pontevedra",
           "status": "Jakobsweg",
           "Url": "",
@@ -2009,13 +2009,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.605273,
-            -8.649295
+            -8.649295,
+            42.605273
           ]
         },
         "properties": {
           "number": 102,
-          "Title": "Caldas de Reis",
+          "name": "Caldas de Reis",
           "Place": "Caldas de Reis",
           "status": "Jakobsweg",
           "Url": "",
@@ -2031,13 +2031,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.739175,
-            -8.661532
+            -8.661532,
+            42.739175
           ]
         },
         "properties": {
           "number": 103,
-          "Title": "Padrón",
+          "name": "Padrón",
           "Place": "Padrón",
           "status": "Jakobsweg",
           "Url": "",
@@ -2053,13 +2053,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.880688,
-            -8.544395
+            -8.544395,
+            42.880688
           ]
         },
         "properties": {
           "number": 104,
-          "Title": "Santiago de Compostela",
+          "name": "Santiago de Compostela",
           "Place": "Santiago de Compostela",
           "status": "Jakobsweg",
           "Url": "20240329_1.png",
@@ -2075,13 +2075,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.8806,
-            -8.544395
+            -8.544395,
+            42.8806
           ]
         },
         "properties": {
           "number": 105,
-          "Title": "Santiago de Compostela",
+          "name": "Santiago de Compostela",
           "Place": "Santiago de Compostela",
           "status": "Jakobsweg",
           "Url": "20240401_1.png",
@@ -2097,13 +2097,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.822419,
-            -9.090562
+            -9.090562,
+            42.822419
           ]
         },
         "properties": {
           "number": 106,
-          "Title": "Carnota",
+          "name": "Carnota",
           "Place": "Carnota",
           "status": "Vacation",
           "Url": "",
@@ -2119,13 +2119,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            42.906471,
-            -9.262566
+            -9.262566,
+            42.906471
           ]
         },
         "properties": {
           "number": 107,
-          "Title": "Fisterra",
+          "name": "Fisterra",
           "Place": "Fisterra",
           "status": "Vacation",
           "Url": "",
@@ -2141,13 +2141,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            43.11198,
-            -9.219645
+            -9.219645,
+            43.11198
           ]
         },
         "properties": {
           "number": 108,
-          "Title": "Muxía",
+          "name": "Muxía",
           "Place": "Muxía",
           "status": "Vacation",
           "Url": "",
@@ -2163,13 +2163,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            47.43314,
-            19.261298
+            19.261298,
+            47.43314
           ]
         },
         "properties": {
           "number": 109,
-          "Title": "Budapest",
+          "name": "Budapest",
           "Place": "Budapest",
           "status": "Ingress/Anomalie",
           "Url": "",
@@ -2185,13 +2185,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.95418,
-            11.001923
+            11.001923,
+            50.95418
           ]
         },
         "properties": {
           "number": 111,
-          "Title": "Erfurt",
+          "name": "Erfurt",
           "Place": "Erfurt",
           "status": "Vacation",
           "Url": "20240804_1.png",
@@ -2207,13 +2207,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.966154,
-            10.306402
+            10.306402,
+            50.966154
           ]
         },
         "properties": {
           "number": 116,
-          "Title": "Wartburg",
+          "name": "Wartburg",
           "Place": "Wartburg",
           "status": "Vacation",
           "Url": "20240805_1.png",
@@ -2229,13 +2229,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.930393,
-            11.58539
+            11.58539,
+            50.930393
           ]
         },
         "properties": {
           "number": 117,
-          "Title": "Jena",
+          "name": "Jena",
           "Place": "Jena",
           "status": "Vacation",
           "Url": "",
@@ -2251,13 +2251,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.977551,
-            11.328694
+            11.328694,
+            50.977551
           ]
         },
         "properties": {
           "number": 118,
-          "Title": "Weimar",
+          "name": "Weimar",
           "Place": "Weimar",
           "status": "Vacation",
           "Url": "20240808_1.png",
@@ -2273,13 +2273,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            39.463178,
-            -0.386828
+            -0.386828,
+            39.463178
           ]
         },
         "properties": {
           "number": 120,
-          "Title": "València",
+          "name": "València",
           "Place": "València",
           "status": "Ingress/Anomalie",
           "Url": "20241101_1.png",
@@ -2295,13 +2295,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.442829,
-            12.681693
+            12.681693,
+            54.442829
           ]
         },
         "properties": {
           "number": 122,
-          "Title": "Zingst",
+          "name": "Zingst",
           "Place": "Zingst",
           "status": "Freizeit",
           "Url": "20241203_1.png",
@@ -2317,13 +2317,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.110706,
-            17.024048
+            17.024048,
+            51.110706
           ]
         },
         "properties": {
           "number": 123,
-          "Title": "Wrocław",
+          "name": "Wrocław",
           "Place": "Wrocław",
           "status": "Vacation",
           "Url": "20250526_1.png",
@@ -2339,13 +2339,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            50.068395,
-            19.947493
+            19.947493,
+            50.068395
           ]
         },
         "properties": {
           "number": 127,
-          "Title": "Kraków",
+          "name": "Kraków",
           "Place": "Kraków",
           "status": "Vacation",
           "Url": "20250527_1.png",
@@ -2361,13 +2361,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.22884,
-            21.00327
+            21.00327,
+            52.22884
           ]
         },
         "properties": {
           "number": 131,
-          "Title": "Warszawa",
+          "name": "Warszawa",
           "Place": "Warszawa",
           "status": "Vacation",
           "Url": "20250530_1.png",
@@ -2383,13 +2383,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.000103,
-            18.614604
+            18.614604,
+            53.000103
           ]
         },
         "properties": {
           "number": 135,
-          "Title": "Toruń",
+          "name": "Toruń",
           "Place": "Toruń",
           "status": "Vacation",
           "Url": "20250602_1.png",
@@ -2405,13 +2405,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.356591,
-            18.644332
+            18.644332,
+            54.356591
           ]
         },
         "properties": {
           "number": 136,
-          "Title": "Gdańsk",
+          "name": "Gdańsk",
           "Place": "Gdańsk",
           "status": "Vacation",
           "Url": "20250604_1.png",
@@ -2427,13 +2427,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.521052,
-            18.537007
+            18.537007,
+            54.521052
           ]
         },
         "properties": {
           "number": 140,
-          "Title": "Gdynia",
+          "name": "Gdynia",
           "Place": "Gdynia",
           "status": "Vacation",
           "Url": "20250604_1.png",
@@ -2449,13 +2449,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            54.443187,
-            18.563637
+            18.563637,
+            54.443187
           ]
         },
         "properties": {
           "number": 141,
-          "Title": "Sopot",
+          "name": "Sopot",
           "Place": "Sopot",
           "status": "Vacation",
           "Url": "20250604_2.png",
@@ -2471,13 +2471,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.402749,
-            16.91243
+            16.91243,
+            52.402749
           ]
         },
         "properties": {
           "number": 142,
-          "Title": "Poznań",
+          "name": "Poznań",
           "Place": "Poznań",
           "status": "Vacation",
           "Url": "20250606_1.png",
@@ -2493,13 +2493,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.843112,
-            10.076048
+            10.076048,
+            52.843112
           ]
         },
         "properties": {
           "number": 143,
-          "Title": "Hermannsburg",
+          "name": "Hermannsburg",
           "Place": "Hermannsburg",
           "status": "Vacation",
           "Url": "20250809_1.png",
@@ -2515,13 +2515,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.627,
-            10.099485
+            10.099485,
+            52.627
           ]
         },
         "properties": {
           "number": 144,
-          "Title": "Celle",
+          "name": "Celle",
           "Place": "Celle",
           "status": "Vacation",
           "Url": "20250807_3.png",
@@ -2537,13 +2537,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.969741,
-            10.553117
+            10.553117,
+            52.969741
           ]
         },
         "properties": {
           "number": 145,
-          "Title": "Uelzen",
+          "name": "Uelzen",
           "Place": "Uelzen",
           "status": "Vacation",
           "Url": "20250805_1.png",
@@ -2559,13 +2559,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            53.246768,
-            10.406782
+            10.406782,
+            53.246768
           ]
         },
         "properties": {
           "number": 146,
-          "Title": "Lüneburg",
+          "name": "Lüneburg",
           "Place": "Lüneburg",
           "status": "Vacation",
           "Url": "20250806_1.png",
@@ -2581,13 +2581,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.991806,
-            9.841018
+            9.841018,
+            52.991806
           ]
         },
         "properties": {
           "number": 147,
-          "Title": "Soltau",
+          "name": "Soltau",
           "Place": "Soltau",
           "status": "Vacation",
           "Url": "20250807_1.png",
@@ -2603,13 +2603,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            48.57416,
-            13.465679
+            13.465679,
+            48.57416
           ]
         },
         "properties": {
           "number": 148,
-          "Title": "Passau",
+          "name": "Passau",
           "Place": "Passau",
           "status": "Freizeit",
           "Url": "20250822_1.png",
@@ -2625,13 +2625,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            52.194219,
-            0.137448
+            0.137448,
+            52.194219
           ]
         },
         "properties": {
           "number": 149,
-          "Title": "Cambridge",
+          "name": "Cambridge",
           "Place": "Cambridge",
           "status": "Ingress/Anomalie",
           "Url": "20250919_1.png",
@@ -2647,13 +2647,13 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            51.531603,
-            -0.123598
+            -0.123598,
+            51.531603
           ]
         },
         "properties": {
           "number": 150,
-          "Title": "London",
+          "name": "London",
           "Place": "London",
           "status": "Freizeit",
           "Url": "20250918_1.png",
